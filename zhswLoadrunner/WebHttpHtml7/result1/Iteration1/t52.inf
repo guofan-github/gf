@@ -1,0 +1,13 @@
+[t52]
+SnapshotXmlFile=snapshot_49.xml
+ContentType=application/json
+StepName=Custom Request: 已审核工单重置
+Total=1
+FileName1=t52.json
+RequestHeaderFile=t52_RequestHeader.txt
+ResponseHeaderFile=t52_ResponseHeader.txt
+RawStepEndTime=1656673216583
+RawStepName=已审核工单重置
+RequestBodyFile=t52_RequestBody.txt
+RawStepStartTime=1656673216572
+URL1=file:

@@ -1,0 +1,13 @@
+[t42]
+SnapshotXmlFile=snapshot_39.xml
+ContentType=application/json
+StepName=Custom Request: 已派工单重置
+Total=1
+FileName1=t42.json
+RequestHeaderFile=t42_RequestHeader.txt
+ResponseHeaderFile=t42_ResponseHeader.txt
+RawStepEndTime=1656673215608
+RawStepName=已派工单重置
+RequestBodyFile=t42_RequestBody.txt
+RawStepStartTime=1656673215600
+URL1=file:

@@ -1,0 +1,13 @@
+[t43]
+SnapshotXmlFile=snapshot_40.xml
+ContentType=application/json
+StepName=Custom Request: 已派工单去审核
+Total=1
+FileName1=t43.json
+RequestHeaderFile=t43_RequestHeader.txt
+ResponseHeaderFile=t43_ResponseHeader.txt
+RawStepEndTime=1656673215702
+RawStepName=已派工单去审核
+RequestBodyFile=t43_RequestBody.txt
+RawStepStartTime=1656673215696
+URL1=file:

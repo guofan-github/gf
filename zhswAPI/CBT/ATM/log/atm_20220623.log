@@ -1,0 +1,772 @@
+[2022-06-23 17:40:16,482] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 17:40:16,508] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-23 17:40:16,574] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 17:40:16,576] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-23 17:40:16,680] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 17:40:16,681] INFO test_zhsw_jcss.py(113): 编辑接口测试成功
+[2022-06-23 17:40:16,716] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 17:40:16,719] INFO test_zhsw_jcss.py(143): 申请列表接口测试成功
+[2022-06-23 17:40:16,763] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 17:40:16,765] INFO test_zhsw_jcss.py(173): 详情接口测试成功
+[2022-06-23 17:40:16,879] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 17:40:16,919] INFO test_zhsw_jcss.py(203): 修改接口测试成功
+[2022-06-23 17:40:16,956] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 17:40:16,957] INFO test_zhsw_jcss.py(233): 添加接口测试成功
+[2022-06-23 17:40:17,042] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 17:40:17,043] INFO test_zhsw_jcss.py(263): 申请设备接口测试成功
+[2022-06-23 17:40:17,105] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 17:40:17,106] INFO test_zhsw_sblb.py(23): 设备列表修改接口测试成功
+[2022-06-23 17:40:17,156] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 17:40:17,157] INFO test_zhsw_sblb.py(53): 设备列表详情接口测试成功
+[2022-06-23 17:40:17,200] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 17:40:17,202] INFO test_zhsw_sblb.py(83): 设备列表删除接口测试成功
+[2022-06-23 17:40:17,263] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 17:40:17,265] INFO test_zhsw_sblb.py(113): 设备列表分配列表接口测试成功
+[2022-06-23 17:40:17,338] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 17:40:17,339] INFO test_zhsw_sblb.py(143): 设备列表分配接口测试成功
+[2022-06-23 17:40:17,373] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 17:40:17,382] INFO test_zhsw_sblb.py(173): 设备列表待批列表接口测试成功
+[2022-06-23 17:40:17,423] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 17:40:17,425] INFO test_zhsw_sblb.py(203): 设备列表批复接口测试成功
+[2022-06-23 17:40:17,509] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 17:40:17,510] INFO test_zhsw_sblb.py(233): 设备列表批复按钮接口测试成功
+[2022-06-23 17:40:17,558] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 17:40:17,559] INFO test_zhsw_sblb.py(263): 设备列表已批列表接口测试成功
+[2022-06-23 17:40:17,653] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 17:40:17,678] INFO test_zhsw_sblb.py(293): 设备列表已批删除接口测试成功
+[2022-06-23 19:02:44,071] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:02:44,074] ERROR test_login_api.py(35): 登录请求遇到意外错误，错误原因：HTTPConnectionPool(host='192.168.163.131', port=80): Max retries exceeded with url: /water_bg/user/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002394D891AC8>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))。
+[2022-06-23 19:02:44,174] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:02:44,176] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-23 19:02:44,219] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:02:44,222] INFO test_zhsw_jcss.py(113): 编辑接口测试成功
+[2022-06-23 19:02:44,265] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:02:44,267] INFO test_zhsw_jcss.py(143): 申请列表接口测试成功
+[2022-06-23 19:02:44,312] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:02:44,313] INFO test_zhsw_jcss.py(173): 详情接口测试成功
+[2022-06-23 19:02:44,331] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:02:44,333] INFO test_zhsw_jcss.py(203): 修改接口测试成功
+[2022-06-23 19:02:44,358] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:02:44,359] INFO test_zhsw_jcss.py(233): 添加接口测试成功
+[2022-06-23 19:02:44,383] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:02:44,385] INFO test_zhsw_jcss.py(263): 申请设备接口测试成功
+[2022-06-23 19:02:44,438] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:02:44,440] INFO test_zhsw_sblb.py(23): 设备列表修改接口测试成功
+[2022-06-23 19:02:44,460] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:02:44,461] INFO test_zhsw_sblb.py(53): 设备列表详情接口测试成功
+[2022-06-23 19:02:44,485] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:02:44,487] INFO test_zhsw_sblb.py(83): 设备列表删除接口测试成功
+[2022-06-23 19:02:44,510] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:02:44,512] INFO test_zhsw_sblb.py(113): 设备列表分配列表接口测试成功
+[2022-06-23 19:02:44,544] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:02:44,545] INFO test_zhsw_sblb.py(143): 设备列表分配接口测试成功
+[2022-06-23 19:02:44,566] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:02:44,568] INFO test_zhsw_sblb.py(173): 设备列表待批列表接口测试成功
+[2022-06-23 19:02:44,597] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:02:44,598] INFO test_zhsw_sblb.py(203): 设备列表批复接口测试成功
+[2022-06-23 19:02:44,626] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:02:44,628] INFO test_zhsw_sblb.py(233): 设备列表批复按钮接口测试成功
+[2022-06-23 19:02:44,652] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:02:44,656] INFO test_zhsw_sblb.py(263): 设备列表已批列表接口测试成功
+[2022-06-23 19:02:44,720] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:02:44,723] INFO test_zhsw_sblb.py(298): 【接口测试】设备列表已批删除接口测试失败. 期望结果是OK，而实际测试结果是{"timestamp":"2022-06-19T23:37:33.904+00:00","status":500,"error":"Internal Server Error","message":"","path":"//ask/delBaseAsk"}， 响应代码是500。
+请求url: http://192.168.163.131/water_bg/ask/delBaseAsk?id=34, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTY4NDg1M30.ZWV9QNClwtVCypMyXILYngLgd6knoLzjN7G5vgi56xQ', 'Cookie': 'JSESSIONID=E00EE7D17D7023BE748B77636DC6C094'} 
+请求体: None
+[2022-06-23 19:02:44,779] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:02:44,781] INFO test_zhsw_sbsx.py(23): 设备属性页面进入接口测试成功
+[2022-06-23 19:02:44,805] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:02:44,806] INFO test_zhsw_sbsx.py(53): 设备属性静态接口测试成功
+[2022-06-23 19:02:44,847] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:02:44,848] INFO test_zhsw_sbsx.py(84): 设备属性动态接口测试成功
+[2022-06-23 19:02:44,894] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:02:44,895] INFO test_zhsw_sbsx.py(119): 【接口测试】设备属性属性修改接口测试失败. 期望结果是OK，而实际测试结果是{"code":200,"msg":"修改成功","data":null}， 响应代码是200。
+请求url: http://192.168.163.131/water_bg/device/updateStatic, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTY4NDg1NH0.CVGk8MPdXayJNXm_nnjBszIHXjTf62V3EuWpk5FK9Hk', 'Cookie': 'JSESSIONID=E00EE7D17D7023BE748B77636DC6C094', 'Content-Length': '55', 'Content-Type': 'application/json'} 
+请求体: b'{"id": 1, "describe": "sb", "unit": "sb", "stockId": 1}'
+[2022-06-23 19:02:44,941] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:02:44,943] INFO test_zhsw_sbsx.py(149): 【接口测试】设备属性属性添加接口测试失败. 期望结果是OK，而实际测试结果是{"code":200,"msg":"添加成功","data":null}， 响应代码是200。
+请求url: http://192.168.163.131/water_bg/device/addStatic, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTY4NDg1NH0.CVGk8MPdXayJNXm_nnjBszIHXjTf62V3EuWpk5FK9Hk', 'Cookie': 'JSESSIONID=E00EE7D17D7023BE748B77636DC6C094', 'Content-Length': '60', 'Content-Type': 'application/json'} 
+请求体: b'{"id": "", "describe": "ssss", "unit": "sb", "stockId": "1"}'
+[2022-06-23 19:02:44,969] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:02:44,970] INFO test_zhsw_sbsx.py(174): 设备属性属性删除接口测试成功
+[2022-06-23 19:09:33,340] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:09:33,341] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-23 19:09:33,401] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:09:33,403] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-23 19:09:33,432] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:09:33,434] INFO test_zhsw_jcss.py(113): 编辑接口测试成功
+[2022-06-23 19:09:33,480] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:09:33,481] INFO test_zhsw_jcss.py(143): 申请列表接口测试成功
+[2022-06-23 19:09:33,516] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:09:33,518] INFO test_zhsw_jcss.py(173): 详情接口测试成功
+[2022-06-23 19:09:33,539] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:09:33,540] INFO test_zhsw_jcss.py(203): 修改接口测试成功
+[2022-06-23 19:09:33,575] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:09:33,577] INFO test_zhsw_jcss.py(233): 添加接口测试成功
+[2022-06-23 19:09:33,611] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:09:33,614] INFO test_zhsw_jcss.py(263): 申请设备接口测试成功
+[2022-06-23 19:09:33,684] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:09:33,685] INFO test_zhsw_sblb.py(23): 设备列表修改接口测试成功
+[2022-06-23 19:09:33,716] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:09:33,717] INFO test_zhsw_sblb.py(53): 设备列表详情接口测试成功
+[2022-06-23 19:09:33,735] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:09:33,736] INFO test_zhsw_sblb.py(83): 设备列表删除接口测试成功
+[2022-06-23 19:09:33,794] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:09:33,795] INFO test_zhsw_sblb.py(113): 设备列表分配列表接口测试成功
+[2022-06-23 19:09:33,817] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:09:33,818] INFO test_zhsw_sblb.py(143): 设备列表分配接口测试成功
+[2022-06-23 19:09:33,865] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:09:33,866] INFO test_zhsw_sblb.py(173): 设备列表待批列表接口测试成功
+[2022-06-23 19:09:33,941] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:09:33,943] INFO test_zhsw_sblb.py(203): 设备列表批复接口测试成功
+[2022-06-23 19:09:33,986] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:09:33,987] INFO test_zhsw_sblb.py(238): 【接口测试】设备列表批复按钮接口测试失败. 期望结果是OK，而实际测试结果是{"timestamp":"2022-06-19T23:44:57.276+00:00","status":500,"error":"Internal Server Error","message":"","path":"//ask/Reply"}， 响应代码是500。
+请求url: http://192.168.163.131/water_bg/ask/Reply?id=33&okNum=5&explain=1, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTY4NTI5N30.Q_E-_EzjBGGAED6bF4cxZhJuq_VgbsfgM-7XIsJt2sk', 'Cookie': 'JSESSIONID=51892F09BA8195B935E181A3C23737A8'} 
+请求体: None
+[2022-06-23 19:09:34,007] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:09:34,009] INFO test_zhsw_sblb.py(263): 设备列表已批列表接口测试成功
+[2022-06-23 19:09:34,070] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:09:34,073] INFO test_zhsw_sblb.py(298): 【接口测试】设备列表已批删除接口测试失败. 期望结果是OK，而实际测试结果是{"timestamp":"2022-06-19T23:44:57.361+00:00","status":500,"error":"Internal Server Error","message":"","path":"//ask/delBaseAsk"}， 响应代码是500。
+请求url: http://192.168.163.131/water_bg/ask/delBaseAsk?id=34, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTY4NTI5N30.Q_E-_EzjBGGAED6bF4cxZhJuq_VgbsfgM-7XIsJt2sk', 'Cookie': 'JSESSIONID=51892F09BA8195B935E181A3C23737A8'} 
+请求体: None
+[2022-06-23 19:09:34,151] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:09:34,152] INFO test_zhsw_sbsx.py(23): 设备属性页面进入接口测试成功
+[2022-06-23 19:09:34,172] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:09:34,173] INFO test_zhsw_sbsx.py(53): 设备属性静态接口测试成功
+[2022-06-23 19:09:34,193] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:09:34,195] INFO test_zhsw_sbsx.py(84): 设备属性动态接口测试成功
+[2022-06-23 19:09:34,252] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:09:34,253] INFO test_zhsw_sbsx.py(119): 【接口测试】设备属性属性修改接口测试失败. 期望结果是OK，而实际测试结果是{"code":200,"msg":"修改成功","data":null}， 响应代码是200。
+请求url: http://192.168.163.131/water_bg/device/updateStatic, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTY4NTI5N30.Q_E-_EzjBGGAED6bF4cxZhJuq_VgbsfgM-7XIsJt2sk', 'Cookie': 'JSESSIONID=51892F09BA8195B935E181A3C23737A8', 'Content-Length': '55', 'Content-Type': 'application/json'} 
+请求体: b'{"id": 1, "describe": "sb", "unit": "sb", "stockId": 1}'
+[2022-06-23 19:09:34,303] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:09:34,304] INFO test_zhsw_sbsx.py(149): 【接口测试】设备属性属性添加接口测试失败. 期望结果是OK，而实际测试结果是{"code":200,"msg":"添加成功","data":null}， 响应代码是200。
+请求url: http://192.168.163.131/water_bg/device/addStatic, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTY4NTI5N30.Q_E-_EzjBGGAED6bF4cxZhJuq_VgbsfgM-7XIsJt2sk', 'Cookie': 'JSESSIONID=51892F09BA8195B935E181A3C23737A8', 'Content-Length': '60', 'Content-Type': 'application/json'} 
+请求体: b'{"id": "", "describe": "ssss", "unit": "sb", "stockId": "1"}'
+[2022-06-23 19:09:34,360] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:09:34,361] INFO test_zhsw_sbsx.py(174): 设备属性属性删除接口测试成功
+[2022-06-23 19:10:55,291] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:10:55,293] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-23 19:10:55,338] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:10:55,340] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-23 19:10:55,433] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:10:55,434] INFO test_zhsw_jcss.py(113): 编辑接口测试成功
+[2022-06-23 19:10:55,451] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:10:55,453] INFO test_zhsw_jcss.py(143): 申请列表接口测试成功
+[2022-06-23 19:10:55,479] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:10:55,480] INFO test_zhsw_jcss.py(173): 详情接口测试成功
+[2022-06-23 19:10:55,499] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:10:55,501] INFO test_zhsw_jcss.py(203): 修改接口测试成功
+[2022-06-23 19:10:55,544] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:10:55,545] INFO test_zhsw_jcss.py(233): 添加接口测试成功
+[2022-06-23 19:10:55,591] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:10:55,592] INFO test_zhsw_jcss.py(263): 申请设备接口测试成功
+[2022-06-23 19:10:55,637] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:10:55,638] INFO test_zhsw_sblb.py(23): 设备列表修改接口测试成功
+[2022-06-23 19:10:55,654] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:10:55,655] INFO test_zhsw_sblb.py(53): 设备列表详情接口测试成功
+[2022-06-23 19:10:55,672] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:10:55,673] INFO test_zhsw_sblb.py(83): 设备列表删除接口测试成功
+[2022-06-23 19:10:55,717] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:10:55,718] INFO test_zhsw_sblb.py(113): 设备列表分配列表接口测试成功
+[2022-06-23 19:10:55,764] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:10:55,766] INFO test_zhsw_sblb.py(143): 设备列表分配接口测试成功
+[2022-06-23 19:10:55,813] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:10:55,815] INFO test_zhsw_sblb.py(173): 设备列表待批列表接口测试成功
+[2022-06-23 19:10:55,850] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:10:55,853] INFO test_zhsw_sblb.py(203): 设备列表批复接口测试成功
+[2022-06-23 19:10:55,883] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:10:55,884] INFO test_zhsw_sblb.py(238): 【接口测试】设备列表批复按钮接口测试失败. 期望结果是OK，而实际测试结果是{"timestamp":"2022-06-19T23:46:26.020+00:00","status":500,"error":"Internal Server Error","message":"","path":"//ask/Reply"}， 响应代码是500。
+请求url: http://192.168.163.131/water_bg/ask/Reply?id=33&okNum=5&explain=1, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTY4NTM4Nn0.l6_iN9xyJT5XxiS4webqDAqdiWCnVxLZLUiLuKagqJo', 'Cookie': 'JSESSIONID=CDA0D41A64419AF08CA0734C66ED040F'} 
+请求体: None
+[2022-06-23 19:10:55,906] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:10:55,907] INFO test_zhsw_sblb.py(263): 设备列表已批列表接口测试成功
+[2022-06-23 19:10:56,006] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:10:56,039] INFO test_zhsw_sblb.py(298): 【接口测试】设备列表已批删除接口测试失败. 期望结果是OK，而实际测试结果是{"timestamp":"2022-06-19T23:46:26.072+00:00","status":500,"error":"Internal Server Error","message":"","path":"//ask/delBaseAsk"}， 响应代码是500。
+请求url: http://192.168.163.131/water_bg/ask/delBaseAsk?id=34, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTY4NTM4Nn0.l6_iN9xyJT5XxiS4webqDAqdiWCnVxLZLUiLuKagqJo', 'Cookie': 'JSESSIONID=CDA0D41A64419AF08CA0734C66ED040F'} 
+请求体: None
+[2022-06-23 19:10:56,159] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:10:56,161] INFO test_zhsw_sbsx.py(23): 设备属性页面进入接口测试成功
+[2022-06-23 19:10:56,176] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:10:56,177] INFO test_zhsw_sbsx.py(53): 设备属性静态接口测试成功
+[2022-06-23 19:10:56,196] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:10:56,197] INFO test_zhsw_sbsx.py(84): 设备属性动态接口测试成功
+[2022-06-23 19:10:56,241] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:10:56,242] INFO test_zhsw_sbsx.py(119): 【接口测试】设备属性属性修改接口测试失败. 期望结果是OK，而实际测试结果是{"code":200,"msg":"修改成功","data":null}， 响应代码是200。
+请求url: http://192.168.163.131/water_bg/device/updateStatic, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTY4NTM4Nn0.l6_iN9xyJT5XxiS4webqDAqdiWCnVxLZLUiLuKagqJo', 'Cookie': 'JSESSIONID=CDA0D41A64419AF08CA0734C66ED040F', 'Content-Length': '55', 'Content-Type': 'application/json'} 
+请求体: b'{"id": 1, "describe": "sb", "unit": "sb", "stockId": 1}'
+[2022-06-23 19:10:56,269] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:10:56,270] INFO test_zhsw_sbsx.py(149): 【接口测试】设备属性属性添加接口测试失败. 期望结果是OK，而实际测试结果是{"code":200,"msg":"添加成功","data":null}， 响应代码是200。
+请求url: http://192.168.163.131/water_bg/device/addStatic, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTY4NTM4Nn0.l6_iN9xyJT5XxiS4webqDAqdiWCnVxLZLUiLuKagqJo', 'Cookie': 'JSESSIONID=CDA0D41A64419AF08CA0734C66ED040F', 'Content-Length': '60', 'Content-Type': 'application/json'} 
+请求体: b'{"id": "", "describe": "ssss", "unit": "sb", "stockId": "1"}'
+[2022-06-23 19:10:56,316] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:10:56,317] INFO test_zhsw_sbsx.py(174): 设备属性属性删除接口测试成功
+[2022-06-23 19:16:02,272] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:02,274] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-23 19:16:02,337] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:02,341] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-23 19:16:02,368] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:02,370] INFO test_zhsw_jcss.py(113): 编辑接口测试成功
+[2022-06-23 19:16:02,391] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:02,392] INFO test_zhsw_jcss.py(143): 申请列表接口测试成功
+[2022-06-23 19:16:02,431] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:02,432] INFO test_zhsw_jcss.py(173): 详情接口测试成功
+[2022-06-23 19:16:02,452] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:02,453] INFO test_zhsw_jcss.py(203): 修改接口测试成功
+[2022-06-23 19:16:02,494] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:02,495] INFO test_zhsw_jcss.py(233): 添加接口测试成功
+[2022-06-23 19:16:02,541] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:02,542] INFO test_zhsw_jcss.py(263): 申请设备接口测试成功
+[2022-06-23 19:16:02,590] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:02,591] INFO test_zhsw_sblb.py(23): 设备列表修改接口测试成功
+[2022-06-23 19:16:02,636] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:02,637] INFO test_zhsw_sblb.py(53): 设备列表详情接口测试成功
+[2022-06-23 19:16:02,676] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:02,678] INFO test_zhsw_sblb.py(83): 设备列表删除接口测试成功
+[2022-06-23 19:16:02,714] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:02,716] INFO test_zhsw_sblb.py(113): 设备列表分配列表接口测试成功
+[2022-06-23 19:16:02,761] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:02,762] INFO test_zhsw_sblb.py(143): 设备列表分配接口测试成功
+[2022-06-23 19:16:02,778] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:02,780] INFO test_zhsw_sblb.py(173): 设备列表待批列表接口测试成功
+[2022-06-23 19:16:02,803] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:02,805] INFO test_zhsw_sblb.py(203): 设备列表批复接口测试成功
+[2022-06-23 19:16:02,855] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:02,857] INFO test_zhsw_sblb.py(238): 【接口测试】设备列表批复按钮接口测试失败. 期望结果是OK，而实际测试结果是{"timestamp":"2022-06-19T23:51:58.548+00:00","status":500,"error":"Internal Server Error","message":"","path":"//ask/Reply"}， 响应代码是500。
+请求url: http://192.168.163.131/water_bg/ask/Reply?id=48&okNum=5&explain=1, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTY4NTcxOH0.IxU-AaHekxkGTHrYiHPHwHi1mdHYzt4dqnYOVwOzRr8', 'Cookie': 'JSESSIONID=F6FB029432355FF94B5BC35E8C111257'} 
+请求体: None
+[2022-06-23 19:16:02,902] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:02,904] INFO test_zhsw_sblb.py(263): 设备列表已批列表接口测试成功
+[2022-06-23 19:16:02,950] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:02,951] INFO test_zhsw_sblb.py(293): 设备列表已批删除接口测试成功
+[2022-06-23 19:16:02,988] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:02,990] INFO test_zhsw_sbsx.py(23): 设备属性页面进入接口测试成功
+[2022-06-23 19:16:03,045] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:03,047] INFO test_zhsw_sbsx.py(53): 设备属性静态接口测试成功
+[2022-06-23 19:16:03,071] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:03,072] INFO test_zhsw_sbsx.py(84): 设备属性动态接口测试成功
+[2022-06-23 19:16:03,097] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:03,098] INFO test_zhsw_sbsx.py(119): 【接口测试】设备属性属性修改接口测试失败. 期望结果是OK，而实际测试结果是{"code":200,"msg":"修改成功","data":null}， 响应代码是200。
+请求url: http://192.168.163.131/water_bg/device/updateStatic, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTY4NTcxOH0.IxU-AaHekxkGTHrYiHPHwHi1mdHYzt4dqnYOVwOzRr8', 'Cookie': 'JSESSIONID=F6FB029432355FF94B5BC35E8C111257', 'Content-Length': '55', 'Content-Type': 'application/json'} 
+请求体: b'{"id": 1, "describe": "sb", "unit": "sb", "stockId": 1}'
+[2022-06-23 19:16:03,120] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:03,121] INFO test_zhsw_sbsx.py(149): 【接口测试】设备属性属性添加接口测试失败. 期望结果是OK，而实际测试结果是{"code":200,"msg":"添加成功","data":null}， 响应代码是200。
+请求url: http://192.168.163.131/water_bg/device/addStatic, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTY4NTcxOH0.IxU-AaHekxkGTHrYiHPHwHi1mdHYzt4dqnYOVwOzRr8', 'Cookie': 'JSESSIONID=F6FB029432355FF94B5BC35E8C111257', 'Content-Length': '60', 'Content-Type': 'application/json'} 
+请求体: b'{"id": "", "describe": "ssss", "unit": "sb", "stockId": "1"}'
+[2022-06-23 19:16:03,150] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:03,151] INFO test_zhsw_sbsx.py(174): 设备属性属性删除接口测试成功
+[2022-06-23 19:16:51,076] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:51,077] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-23 19:16:51,138] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:51,142] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-23 19:16:51,186] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:51,187] INFO test_zhsw_jcss.py(113): 编辑接口测试成功
+[2022-06-23 19:16:51,203] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:51,204] INFO test_zhsw_jcss.py(143): 申请列表接口测试成功
+[2022-06-23 19:16:51,248] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:51,249] INFO test_zhsw_jcss.py(173): 详情接口测试成功
+[2022-06-23 19:16:51,269] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:51,271] INFO test_zhsw_jcss.py(203): 修改接口测试成功
+[2022-06-23 19:16:51,299] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:51,301] INFO test_zhsw_jcss.py(233): 添加接口测试成功
+[2022-06-23 19:16:51,342] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:51,343] INFO test_zhsw_jcss.py(263): 申请设备接口测试成功
+[2022-06-23 19:16:51,407] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:51,408] INFO test_zhsw_sblb.py(23): 设备列表修改接口测试成功
+[2022-06-23 19:16:51,452] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:51,454] INFO test_zhsw_sblb.py(53): 设备列表详情接口测试成功
+[2022-06-23 19:16:51,475] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:51,477] INFO test_zhsw_sblb.py(83): 设备列表删除接口测试成功
+[2022-06-23 19:16:51,514] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:51,516] INFO test_zhsw_sblb.py(113): 设备列表分配列表接口测试成功
+[2022-06-23 19:16:51,536] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:51,537] INFO test_zhsw_sblb.py(143): 设备列表分配接口测试成功
+[2022-06-23 19:16:51,594] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:51,596] INFO test_zhsw_sblb.py(173): 设备列表待批列表接口测试成功
+[2022-06-23 19:16:51,618] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:51,620] INFO test_zhsw_sblb.py(203): 设备列表批复接口测试成功
+[2022-06-23 19:16:51,703] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:51,704] INFO test_zhsw_sblb.py(238): 【接口测试】设备列表批复按钮接口测试失败. 期望结果是OK，而实际测试结果是{"timestamp":"2022-06-19T23:52:51.469+00:00","status":500,"error":"Internal Server Error","message":"","path":"//ask/Reply"}， 响应代码是500。
+请求url: http://192.168.163.131/water_bg/ask/Reply?id=48&okNum=5&explain=1, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTY4NTc3MX0.ls-EW69nQnZ6PUeg97kLklw_nbXvp7ZchZTF3k0teQs', 'Cookie': 'JSESSIONID=26D106FCB9DB31C7FC2BE69F9151C0B6'} 
+请求体: None
+[2022-06-23 19:16:51,735] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:51,737] INFO test_zhsw_sblb.py(263): 设备列表已批列表接口测试成功
+[2022-06-23 19:16:51,759] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:51,760] INFO test_zhsw_sblb.py(293): 设备列表已批删除接口测试成功
+[2022-06-23 19:16:51,824] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:51,825] INFO test_zhsw_sbsx.py(23): 设备属性页面进入接口测试成功
+[2022-06-23 19:16:51,843] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:51,844] INFO test_zhsw_sbsx.py(53): 设备属性静态接口测试成功
+[2022-06-23 19:16:51,862] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:51,863] INFO test_zhsw_sbsx.py(84): 设备属性动态接口测试成功
+[2022-06-23 19:16:52,007] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:52,038] INFO test_zhsw_sbsx.py(114): 设备属性属性修改接口测试成功
+[2022-06-23 19:16:52,222] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:52,238] INFO test_zhsw_sbsx.py(144): 设备属性属性添加接口测试成功
+[2022-06-23 19:16:52,367] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:16:52,368] INFO test_zhsw_sbsx.py(174): 设备属性属性删除接口测试成功
+[2022-06-23 19:17:34,690] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:17:34,691] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-23 19:17:34,737] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:17:34,739] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-23 19:17:34,772] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:17:34,773] INFO test_zhsw_jcss.py(113): 编辑接口测试成功
+[2022-06-23 19:17:34,816] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:17:34,817] INFO test_zhsw_jcss.py(143): 申请列表接口测试成功
+[2022-06-23 19:17:34,833] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:17:34,834] INFO test_zhsw_jcss.py(173): 详情接口测试成功
+[2022-06-23 19:17:34,851] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:17:34,853] INFO test_zhsw_jcss.py(203): 修改接口测试成功
+[2022-06-23 19:17:34,894] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:17:34,895] INFO test_zhsw_jcss.py(233): 添加接口测试成功
+[2022-06-23 19:17:34,943] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:17:34,945] INFO test_zhsw_jcss.py(263): 申请设备接口测试成功
+[2022-06-23 19:17:34,982] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:17:34,983] INFO test_zhsw_sblb.py(23): 设备列表修改接口测试成功
+[2022-06-23 19:17:35,021] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:17:35,023] INFO test_zhsw_sblb.py(53): 设备列表详情接口测试成功
+[2022-06-23 19:17:35,039] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:17:35,040] INFO test_zhsw_sblb.py(83): 设备列表删除接口测试成功
+[2022-06-23 19:17:35,072] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:17:35,073] INFO test_zhsw_sblb.py(113): 设备列表分配列表接口测试成功
+[2022-06-23 19:17:35,095] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:17:35,096] INFO test_zhsw_sblb.py(143): 设备列表分配接口测试成功
+[2022-06-23 19:17:35,111] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:17:35,113] INFO test_zhsw_sblb.py(173): 设备列表待批列表接口测试成功
+[2022-06-23 19:17:35,128] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:17:35,130] INFO test_zhsw_sblb.py(203): 设备列表批复接口测试成功
+[2022-06-23 19:17:35,178] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:17:35,179] INFO test_zhsw_sblb.py(233): 设备列表批复按钮接口测试成功
+[2022-06-23 19:17:35,198] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:17:35,199] INFO test_zhsw_sblb.py(263): 设备列表已批列表接口测试成功
+[2022-06-23 19:17:35,230] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:17:35,231] INFO test_zhsw_sblb.py(298): 【接口测试】设备列表已批删除接口测试失败. 期望结果是OK，而实际测试结果是{"timestamp":"2022-06-19T23:53:38.646+00:00","status":500,"error":"Internal Server Error","message":"","path":"//ask/delBaseAsk"}， 响应代码是500。
+请求url: http://192.168.163.131/water_bg/ask/delBaseAsk?id=42, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTY4NTgxOH0.TqFr1tENDxOPFdURe0i6U-5kJbVfRCuFFX8NjbELdRM', 'Cookie': 'JSESSIONID=0988AEE929FF2545DB02A208839BA2E4'} 
+请求体: None
+[2022-06-23 19:17:35,272] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:17:35,274] INFO test_zhsw_sbsx.py(23): 设备属性页面进入接口测试成功
+[2022-06-23 19:17:35,303] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:17:35,305] INFO test_zhsw_sbsx.py(53): 设备属性静态接口测试成功
+[2022-06-23 19:17:35,337] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:17:35,341] INFO test_zhsw_sbsx.py(84): 设备属性动态接口测试成功
+[2022-06-23 19:17:35,382] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:17:35,383] INFO test_zhsw_sbsx.py(114): 设备属性属性修改接口测试成功
+[2022-06-23 19:17:35,402] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:17:35,404] INFO test_zhsw_sbsx.py(144): 设备属性属性添加接口测试成功
+[2022-06-23 19:17:35,420] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:17:35,421] INFO test_zhsw_sbsx.py(174): 设备属性属性删除接口测试成功
+[2022-06-23 19:18:15,689] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:18:15,690] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-23 19:18:15,768] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:18:15,770] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-23 19:18:15,788] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:18:15,789] INFO test_zhsw_jcss.py(113): 编辑接口测试成功
+[2022-06-23 19:18:15,836] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:18:15,839] INFO test_zhsw_jcss.py(143): 申请列表接口测试成功
+[2022-06-23 19:18:15,867] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:18:15,868] INFO test_zhsw_jcss.py(173): 详情接口测试成功
+[2022-06-23 19:18:15,886] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:18:15,887] INFO test_zhsw_jcss.py(203): 修改接口测试成功
+[2022-06-23 19:18:15,912] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:18:15,913] INFO test_zhsw_jcss.py(233): 添加接口测试成功
+[2022-06-23 19:18:15,957] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:18:15,958] INFO test_zhsw_jcss.py(263): 申请设备接口测试成功
+[2022-06-23 19:18:16,021] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:18:16,022] INFO test_zhsw_sblb.py(23): 设备列表修改接口测试成功
+[2022-06-23 19:18:16,068] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:18:16,069] INFO test_zhsw_sblb.py(53): 设备列表详情接口测试成功
+[2022-06-23 19:18:16,100] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:18:16,101] INFO test_zhsw_sblb.py(83): 设备列表删除接口测试成功
+[2022-06-23 19:18:16,119] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:18:16,119] INFO test_zhsw_sblb.py(113): 设备列表分配列表接口测试成功
+[2022-06-23 19:18:16,138] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:18:16,140] INFO test_zhsw_sblb.py(143): 设备列表分配接口测试成功
+[2022-06-23 19:18:16,180] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:18:16,182] INFO test_zhsw_sblb.py(173): 设备列表待批列表接口测试成功
+[2022-06-23 19:18:16,204] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:18:16,206] INFO test_zhsw_sblb.py(203): 设备列表批复接口测试成功
+[2022-06-23 19:18:16,275] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:18:16,276] INFO test_zhsw_sblb.py(233): 设备列表批复按钮接口测试成功
+[2022-06-23 19:18:16,337] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:18:16,339] INFO test_zhsw_sblb.py(263): 设备列表已批列表接口测试成功
+[2022-06-23 19:18:16,355] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:18:16,356] INFO test_zhsw_sblb.py(293): 设备列表已批删除接口测试成功
+[2022-06-23 19:18:16,403] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:18:16,405] INFO test_zhsw_sbsx.py(23): 设备属性页面进入接口测试成功
+[2022-06-23 19:18:16,448] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:18:16,450] INFO test_zhsw_sbsx.py(53): 设备属性静态接口测试成功
+[2022-06-23 19:18:16,511] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:18:16,512] INFO test_zhsw_sbsx.py(84): 设备属性动态接口测试成功
+[2022-06-23 19:18:16,543] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:18:16,544] INFO test_zhsw_sbsx.py(114): 设备属性属性修改接口测试成功
+[2022-06-23 19:18:16,560] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:18:16,560] INFO test_zhsw_sbsx.py(144): 设备属性属性添加接口测试成功
+[2022-06-23 19:18:16,632] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:18:16,635] INFO test_zhsw_sbsx.py(174): 设备属性属性删除接口测试成功
+[2022-06-23 19:26:25,261] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:25,262] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-23 19:26:25,313] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:25,316] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-23 19:26:25,425] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:25,445] INFO test_zhsw_jcss.py(113): 编辑接口测试成功
+[2022-06-23 19:26:25,508] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:25,510] INFO test_zhsw_jcss.py(143): 申请列表接口测试成功
+[2022-06-23 19:26:25,540] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:25,541] INFO test_zhsw_jcss.py(173): 详情接口测试成功
+[2022-06-23 19:26:25,586] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:25,587] INFO test_zhsw_jcss.py(203): 修改接口测试成功
+[2022-06-23 19:26:25,619] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:25,621] INFO test_zhsw_jcss.py(233): 添加接口测试成功
+[2022-06-23 19:26:25,649] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:25,651] INFO test_zhsw_jcss.py(263): 申请设备接口测试成功
+[2022-06-23 19:26:25,707] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:25,710] INFO test_zhsw_sblb.py(23): 设备列表修改接口测试成功
+[2022-06-23 19:26:25,789] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:25,790] INFO test_zhsw_sblb.py(53): 设备列表详情接口测试成功
+[2022-06-23 19:26:25,837] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:25,838] INFO test_zhsw_sblb.py(83): 设备列表删除接口测试成功
+[2022-06-23 19:26:25,855] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:25,856] INFO test_zhsw_sblb.py(113): 设备列表分配列表接口测试成功
+[2022-06-23 19:26:25,904] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:25,908] INFO test_zhsw_sblb.py(143): 设备列表分配接口测试成功
+[2022-06-23 19:26:25,929] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:25,931] INFO test_zhsw_sblb.py(173): 设备列表待批列表接口测试成功
+[2022-06-23 19:26:25,952] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:25,953] INFO test_zhsw_sblb.py(203): 设备列表批复接口测试成功
+[2022-06-23 19:26:26,025] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:26,027] INFO test_zhsw_sblb.py(233): 设备列表批复按钮接口测试成功
+[2022-06-23 19:26:26,088] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:26,089] INFO test_zhsw_sblb.py(263): 设备列表已批列表接口测试成功
+[2022-06-23 19:26:26,106] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:26,107] INFO test_zhsw_sblb.py(293): 设备列表已批删除接口测试成功
+[2022-06-23 19:26:26,181] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:26,183] INFO test_zhsw_sbsx.py(23): 设备属性页面进入接口测试成功
+[2022-06-23 19:26:26,199] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:26,200] INFO test_zhsw_sbsx.py(53): 设备属性静态接口测试成功
+[2022-06-23 19:26:26,228] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:26,229] INFO test_zhsw_sbsx.py(84): 设备属性动态接口测试成功
+[2022-06-23 19:26:26,247] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:26,249] INFO test_zhsw_sbsx.py(114): 设备属性属性修改接口测试成功
+[2022-06-23 19:26:26,267] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:26,269] INFO test_zhsw_sbsx.py(144): 设备属性属性添加接口测试成功
+[2022-06-23 19:26:26,290] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:26,292] INFO test_zhsw_sbsx.py(174): 设备属性属性删除接口测试成功
+[2022-06-23 19:26:29,830] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:29,831] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-23 19:26:29,904] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:29,905] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-23 19:26:29,924] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:29,925] INFO test_zhsw_jcss.py(113): 编辑接口测试成功
+[2022-06-23 19:26:29,970] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:29,971] INFO test_zhsw_jcss.py(143): 申请列表接口测试成功
+[2022-06-23 19:26:30,017] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:30,018] INFO test_zhsw_jcss.py(173): 详情接口测试成功
+[2022-06-23 19:26:30,080] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:30,082] INFO test_zhsw_jcss.py(203): 修改接口测试成功
+[2022-06-23 19:26:30,113] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:30,114] INFO test_zhsw_jcss.py(233): 添加接口测试成功
+[2022-06-23 19:26:30,156] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:30,157] INFO test_zhsw_jcss.py(263): 申请设备接口测试成功
+[2022-06-23 19:26:30,222] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:30,223] INFO test_zhsw_sblb.py(23): 设备列表修改接口测试成功
+[2022-06-23 19:26:30,238] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:30,240] INFO test_zhsw_sblb.py(53): 设备列表详情接口测试成功
+[2022-06-23 19:26:30,265] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:30,267] INFO test_zhsw_sblb.py(83): 设备列表删除接口测试成功
+[2022-06-23 19:26:30,284] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:30,286] INFO test_zhsw_sblb.py(113): 设备列表分配列表接口测试成功
+[2022-06-23 19:26:30,327] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:30,328] INFO test_zhsw_sblb.py(143): 设备列表分配接口测试成功
+[2022-06-23 19:26:30,369] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:30,370] INFO test_zhsw_sblb.py(173): 设备列表待批列表接口测试成功
+[2022-06-23 19:26:30,392] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:30,395] INFO test_zhsw_sblb.py(203): 设备列表批复接口测试成功
+[2022-06-23 19:26:30,418] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:30,422] INFO test_zhsw_sblb.py(233): 设备列表批复按钮接口测试成功
+[2022-06-23 19:26:30,470] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:30,472] INFO test_zhsw_sblb.py(263): 设备列表已批列表接口测试成功
+[2022-06-23 19:26:30,498] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:30,499] INFO test_zhsw_sblb.py(293): 设备列表已批删除接口测试成功
+[2022-06-23 19:26:30,565] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:30,566] INFO test_zhsw_sbsx.py(23): 设备属性页面进入接口测试成功
+[2022-06-23 19:26:30,584] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:30,585] INFO test_zhsw_sbsx.py(53): 设备属性静态接口测试成功
+[2022-06-23 19:26:30,604] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:30,605] INFO test_zhsw_sbsx.py(84): 设备属性动态接口测试成功
+[2022-06-23 19:26:30,625] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:30,627] INFO test_zhsw_sbsx.py(114): 设备属性属性修改接口测试成功
+[2022-06-23 19:26:30,664] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:30,666] INFO test_zhsw_sbsx.py(144): 设备属性属性添加接口测试成功
+[2022-06-23 19:26:30,681] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:30,682] INFO test_zhsw_sbsx.py(174): 设备属性属性删除接口测试成功
+[2022-06-23 19:26:33,904] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:33,906] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-23 19:26:33,939] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:33,940] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-23 19:26:33,996] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:33,997] INFO test_zhsw_jcss.py(113): 编辑接口测试成功
+[2022-06-23 19:26:34,017] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:34,019] INFO test_zhsw_jcss.py(143): 申请列表接口测试成功
+[2022-06-23 19:26:34,057] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:34,058] INFO test_zhsw_jcss.py(173): 详情接口测试成功
+[2022-06-23 19:26:34,088] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:34,089] INFO test_zhsw_jcss.py(203): 修改接口测试成功
+[2022-06-23 19:26:34,124] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:34,127] INFO test_zhsw_jcss.py(233): 添加接口测试成功
+[2022-06-23 19:26:34,168] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:34,169] INFO test_zhsw_jcss.py(263): 申请设备接口测试成功
+[2022-06-23 19:26:34,201] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:34,203] INFO test_zhsw_sblb.py(23): 设备列表修改接口测试成功
+[2022-06-23 19:26:34,260] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:34,261] INFO test_zhsw_sblb.py(53): 设备列表详情接口测试成功
+[2022-06-23 19:26:34,279] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:34,280] INFO test_zhsw_sblb.py(83): 设备列表删除接口测试成功
+[2022-06-23 19:26:34,322] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:34,322] INFO test_zhsw_sblb.py(113): 设备列表分配列表接口测试成功
+[2022-06-23 19:26:34,339] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:34,339] INFO test_zhsw_sblb.py(143): 设备列表分配接口测试成功
+[2022-06-23 19:26:34,371] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:34,373] INFO test_zhsw_sblb.py(173): 设备列表待批列表接口测试成功
+[2022-06-23 19:26:34,389] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:34,391] INFO test_zhsw_sblb.py(203): 设备列表批复接口测试成功
+[2022-06-23 19:26:34,431] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:34,432] INFO test_zhsw_sblb.py(233): 设备列表批复按钮接口测试成功
+[2022-06-23 19:26:34,450] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:34,451] INFO test_zhsw_sblb.py(263): 设备列表已批列表接口测试成功
+[2022-06-23 19:26:34,493] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:34,494] INFO test_zhsw_sblb.py(293): 设备列表已批删除接口测试成功
+[2022-06-23 19:26:34,527] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:34,528] INFO test_zhsw_sbsx.py(23): 设备属性页面进入接口测试成功
+[2022-06-23 19:26:34,543] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:34,544] INFO test_zhsw_sbsx.py(53): 设备属性静态接口测试成功
+[2022-06-23 19:26:34,559] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:34,560] INFO test_zhsw_sbsx.py(84): 设备属性动态接口测试成功
+[2022-06-23 19:26:34,604] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:34,605] INFO test_zhsw_sbsx.py(114): 设备属性属性修改接口测试成功
+[2022-06-23 19:26:34,622] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:34,622] INFO test_zhsw_sbsx.py(144): 设备属性属性添加接口测试成功
+[2022-06-23 19:26:34,636] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:26:34,638] INFO test_zhsw_sbsx.py(174): 设备属性属性删除接口测试成功
+[2022-06-23 19:40:41,055] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,057] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-23 19:40:41,107] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,108] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-23 19:40:41,151] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,152] INFO test_zhsw_jcss.py(113): 编辑接口测试成功
+[2022-06-23 19:40:41,168] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,169] INFO test_zhsw_jcss.py(143): 申请列表接口测试成功
+[2022-06-23 19:40:41,212] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,214] INFO test_zhsw_jcss.py(173): 详情接口测试成功
+[2022-06-23 19:40:41,236] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,237] INFO test_zhsw_jcss.py(203): 修改接口测试成功
+[2022-06-23 19:40:41,261] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,262] INFO test_zhsw_jcss.py(233): 添加接口测试成功
+[2022-06-23 19:40:41,282] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,284] INFO test_zhsw_jcss.py(263): 申请设备接口测试成功
+[2022-06-23 19:40:41,338] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,339] INFO test_zhsw_sblb.py(23): 设备列表修改接口测试成功
+[2022-06-23 19:40:41,369] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,372] INFO test_zhsw_sblb.py(53): 设备列表详情接口测试成功
+[2022-06-23 19:40:41,401] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,402] INFO test_zhsw_sblb.py(83): 设备列表删除接口测试成功
+[2022-06-23 19:40:41,448] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,449] INFO test_zhsw_sblb.py(113): 设备列表分配列表接口测试成功
+[2022-06-23 19:40:41,479] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,480] INFO test_zhsw_sblb.py(143): 设备列表分配接口测试成功
+[2022-06-23 19:40:41,527] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,528] INFO test_zhsw_sblb.py(173): 设备列表待批列表接口测试成功
+[2022-06-23 19:40:41,547] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,548] INFO test_zhsw_sblb.py(203): 设备列表批复接口测试成功
+[2022-06-23 19:40:41,590] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,591] INFO test_zhsw_sblb.py(233): 设备列表批复按钮接口测试成功
+[2022-06-23 19:40:41,608] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,609] INFO test_zhsw_sblb.py(263): 设备列表已批列表接口测试成功
+[2022-06-23 19:40:41,629] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,631] INFO test_zhsw_sblb.py(293): 设备列表已批删除接口测试成功
+[2022-06-23 19:40:41,698] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,700] INFO test_zhsw_sbsx.py(23): 设备属性页面进入接口测试成功
+[2022-06-23 19:40:41,722] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,723] INFO test_zhsw_sbsx.py(53): 设备属性静态接口测试成功
+[2022-06-23 19:40:41,737] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,738] INFO test_zhsw_sbsx.py(84): 设备属性动态接口测试成功
+[2022-06-23 19:40:41,777] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,779] INFO test_zhsw_sbsx.py(114): 设备属性属性修改接口测试成功
+[2022-06-23 19:40:41,802] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,804] INFO test_zhsw_sbsx.py(144): 设备属性属性添加接口测试成功
+[2022-06-23 19:40:41,818] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,819] INFO test_zhsw_sbsx.py(174): 设备属性属性删除接口测试成功
+[2022-06-23 19:40:41,848] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,850] INFO test_zhsw_bgjk.py(23): 爆管监控boom接口测试成功
+[2022-06-23 19:40:41,887] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:41,889] INFO test_zhsw_bgjk.py(53): 爆管监控开始监控接口测试成功
+[2022-06-23 19:40:55,887] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:55,888] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-23 19:40:55,920] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:55,921] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-23 19:40:56,005] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:56,006] INFO test_zhsw_jcss.py(113): 编辑接口测试成功
+[2022-06-23 19:40:56,928] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:56,930] INFO test_zhsw_jcss.py(143): 申请列表接口测试成功
+[2022-06-23 19:40:56,960] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:56,962] INFO test_zhsw_jcss.py(173): 详情接口测试成功
+[2022-06-23 19:40:56,993] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:56,997] INFO test_zhsw_jcss.py(203): 修改接口测试成功
+[2022-06-23 19:40:57,047] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:57,048] INFO test_zhsw_jcss.py(233): 添加接口测试成功
+[2022-06-23 19:40:57,104] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:57,106] INFO test_zhsw_jcss.py(263): 申请设备接口测试成功
+[2022-06-23 19:40:57,137] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:57,138] INFO test_zhsw_sblb.py(23): 设备列表修改接口测试成功
+[2022-06-23 19:40:57,178] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:57,180] INFO test_zhsw_sblb.py(53): 设备列表详情接口测试成功
+[2022-06-23 19:40:57,196] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:57,197] INFO test_zhsw_sblb.py(83): 设备列表删除接口测试成功
+[2022-06-23 19:40:57,333] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:57,353] INFO test_zhsw_sblb.py(113): 设备列表分配列表接口测试成功
+[2022-06-23 19:40:57,441] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:57,442] INFO test_zhsw_sblb.py(143): 设备列表分配接口测试成功
+[2022-06-23 19:40:57,480] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:57,481] INFO test_zhsw_sblb.py(173): 设备列表待批列表接口测试成功
+[2022-06-23 19:40:57,500] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:57,502] INFO test_zhsw_sblb.py(203): 设备列表批复接口测试成功
+[2022-06-23 19:40:57,543] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:57,544] INFO test_zhsw_sblb.py(233): 设备列表批复按钮接口测试成功
+[2022-06-23 19:40:57,575] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:57,576] INFO test_zhsw_sblb.py(263): 设备列表已批列表接口测试成功
+[2022-06-23 19:40:57,592] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:57,594] INFO test_zhsw_sblb.py(293): 设备列表已批删除接口测试成功
+[2022-06-23 19:40:57,638] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:57,639] INFO test_zhsw_sbsx.py(23): 设备属性页面进入接口测试成功
+[2022-06-23 19:40:57,668] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:57,670] INFO test_zhsw_sbsx.py(53): 设备属性静态接口测试成功
+[2022-06-23 19:40:57,688] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:57,690] INFO test_zhsw_sbsx.py(84): 设备属性动态接口测试成功
+[2022-06-23 19:40:57,718] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:57,719] INFO test_zhsw_sbsx.py(114): 设备属性属性修改接口测试成功
+[2022-06-23 19:40:57,736] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:57,738] INFO test_zhsw_sbsx.py(144): 设备属性属性添加接口测试成功
+[2022-06-23 19:40:57,765] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:57,766] INFO test_zhsw_sbsx.py(174): 设备属性属性删除接口测试成功
+[2022-06-23 19:40:57,813] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:57,815] INFO test_zhsw_bgjk.py(23): 爆管监控boom接口测试成功
+[2022-06-23 19:40:57,845] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:40:57,847] INFO test_zhsw_bgjk.py(53): 爆管监控开始监控接口测试成功
+[2022-06-23 19:46:04,392] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:04,394] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-23 19:46:04,429] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:04,430] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-23 19:46:04,473] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:04,475] INFO test_zhsw_jcss.py(113): 编辑接口测试成功
+[2022-06-23 19:46:04,490] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:04,491] INFO test_zhsw_jcss.py(143): 申请列表接口测试成功
+[2022-06-23 19:46:04,536] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:04,537] INFO test_zhsw_jcss.py(173): 详情接口测试成功
+[2022-06-23 19:46:04,566] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:04,567] INFO test_zhsw_jcss.py(203): 修改接口测试成功
+[2022-06-23 19:46:04,586] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:04,587] INFO test_zhsw_jcss.py(233): 添加接口测试成功
+[2022-06-23 19:46:04,645] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:04,646] INFO test_zhsw_jcss.py(263): 申请设备接口测试成功
+[2022-06-23 19:46:04,678] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:04,679] INFO test_zhsw_sblb.py(23): 设备列表修改接口测试成功
+[2022-06-23 19:46:04,691] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:04,693] INFO test_zhsw_sblb.py(53): 设备列表详情接口测试成功
+[2022-06-23 19:46:04,726] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:04,728] INFO test_zhsw_sblb.py(83): 设备列表删除接口测试成功
+[2022-06-23 19:46:04,741] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:04,742] INFO test_zhsw_sblb.py(113): 设备列表分配列表接口测试成功
+[2022-06-23 19:46:04,772] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:04,773] INFO test_zhsw_sblb.py(143): 设备列表分配接口测试成功
+[2022-06-23 19:46:04,820] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:04,821] INFO test_zhsw_sblb.py(173): 设备列表待批列表接口测试成功
+[2022-06-23 19:46:04,853] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:04,855] INFO test_zhsw_sblb.py(203): 设备列表批复接口测试成功
+[2022-06-23 19:46:04,883] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:04,885] INFO test_zhsw_sblb.py(233): 设备列表批复按钮接口测试成功
+[2022-06-23 19:46:04,903] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:04,905] INFO test_zhsw_sblb.py(263): 设备列表已批列表接口测试成功
+[2022-06-23 19:46:04,928] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:04,931] INFO test_zhsw_sblb.py(293): 设备列表已批删除接口测试成功
+[2022-06-23 19:46:04,993] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:04,995] INFO test_zhsw_sbsx.py(23): 设备属性页面进入接口测试成功
+[2022-06-23 19:46:05,027] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:05,027] INFO test_zhsw_sbsx.py(53): 设备属性静态接口测试成功
+[2022-06-23 19:46:05,057] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:05,058] INFO test_zhsw_sbsx.py(84): 设备属性动态接口测试成功
+[2022-06-23 19:46:05,092] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:05,094] INFO test_zhsw_sbsx.py(114): 设备属性属性修改接口测试成功
+[2022-06-23 19:46:05,113] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:05,115] INFO test_zhsw_sbsx.py(144): 设备属性属性添加接口测试成功
+[2022-06-23 19:46:05,132] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:05,133] INFO test_zhsw_sbsx.py(174): 设备属性属性删除接口测试成功
+[2022-06-23 19:46:05,213] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:05,214] INFO test_zhsw_bgjk.py(23): 爆管监控boom接口测试成功
+[2022-06-23 19:46:05,227] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 19:46:05,229] INFO test_zhsw_bgjk.py(53): 爆管监控开始监控接口测试成功
+[2022-06-23 20:00:49,034] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,037] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-23 20:00:49,099] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,100] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-23 20:00:49,140] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,142] INFO test_zhsw_jcss.py(113): 编辑接口测试成功
+[2022-06-23 20:00:49,177] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,179] INFO test_zhsw_jcss.py(143): 申请列表接口测试成功
+[2022-06-23 20:00:49,196] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,198] INFO test_zhsw_jcss.py(173): 详情接口测试成功
+[2022-06-23 20:00:49,217] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,218] INFO test_zhsw_jcss.py(203): 修改接口测试成功
+[2022-06-23 20:00:49,256] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,257] INFO test_zhsw_jcss.py(233): 添加接口测试成功
+[2022-06-23 20:00:49,273] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,275] INFO test_zhsw_jcss.py(263): 申请设备接口测试成功
+[2022-06-23 20:00:49,320] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,322] INFO test_zhsw_sblb.py(23): 设备列表修改接口测试成功
+[2022-06-23 20:00:49,384] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,385] INFO test_zhsw_sblb.py(53): 设备列表详情接口测试成功
+[2022-06-23 20:00:49,401] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,403] INFO test_zhsw_sblb.py(83): 设备列表删除接口测试成功
+[2022-06-23 20:00:49,416] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,417] INFO test_zhsw_sblb.py(113): 设备列表分配列表接口测试成功
+[2022-06-23 20:00:49,433] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,435] INFO test_zhsw_sblb.py(143): 设备列表分配接口测试成功
+[2022-06-23 20:00:49,447] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,448] INFO test_zhsw_sblb.py(173): 设备列表待批列表接口测试成功
+[2022-06-23 20:00:49,481] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,483] INFO test_zhsw_sblb.py(203): 设备列表批复接口测试成功
+[2022-06-23 20:00:49,512] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,514] INFO test_zhsw_sblb.py(233): 设备列表批复按钮接口测试成功
+[2022-06-23 20:00:49,527] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,529] INFO test_zhsw_sblb.py(263): 设备列表已批列表接口测试成功
+[2022-06-23 20:00:49,548] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,549] INFO test_zhsw_sblb.py(293): 设备列表已批删除接口测试成功
+[2022-06-23 20:00:49,621] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,622] INFO test_zhsw_sbsx.py(23): 设备属性页面进入接口测试成功
+[2022-06-23 20:00:49,635] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,637] INFO test_zhsw_sbsx.py(53): 设备属性静态接口测试成功
+[2022-06-23 20:00:49,704] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,706] INFO test_zhsw_sbsx.py(84): 设备属性动态接口测试成功
+[2022-06-23 20:00:49,719] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,720] INFO test_zhsw_sbsx.py(114): 设备属性属性修改接口测试成功
+[2022-06-23 20:00:49,735] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,738] INFO test_zhsw_sbsx.py(144): 设备属性属性添加接口测试成功
+[2022-06-23 20:00:49,780] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,781] INFO test_zhsw_sbsx.py(174): 设备属性属性删除接口测试成功
+[2022-06-23 20:00:49,812] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,813] INFO test_zhsw_bgjk.py(23): 爆管监控boom接口测试成功
+[2022-06-23 20:00:49,843] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-23 20:00:49,845] INFO test_zhsw_bgjk.py(53): 爆管监控开始监控接口测试成功

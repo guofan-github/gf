@@ -1,0 +1,13 @@
+[t53]
+SnapshotXmlFile=snapshot_50.xml
+ContentType=application/json
+StepName=Custom Request: web_custom_request
+Total=1
+FileName1=t53.json
+RequestHeaderFile=t53_RequestHeader.txt
+ResponseHeaderFile=t53_ResponseHeader.txt
+RawStepEndTime=1656673216675
+RawStepName=web_custom_request
+RequestBodyFile=t53_RequestBody.txt
+RawStepStartTime=1656673216668
+URL1=file:

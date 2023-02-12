@@ -1,0 +1,13 @@
+[t35]
+SnapshotXmlFile=snapshot_32.xml
+ContentType=application/json
+StepName=Custom Request: 进入未派工单
+Total=1
+FileName1=t35.json
+RequestHeaderFile=t35_RequestHeader.txt
+ResponseHeaderFile=t35_ResponseHeader.txt
+RawStepEndTime=1656673214950
+RawStepName=进入未派工单
+RequestBodyFile=t35_RequestBody.txt
+RawStepStartTime=1656673214944
+URL1=file:

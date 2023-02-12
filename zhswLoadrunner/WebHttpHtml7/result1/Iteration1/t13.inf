@@ -1,0 +1,13 @@
+[t13]
+SnapshotXmlFile=snapshot_12.xml
+ContentType=application/json
+StepName=Url: 设备列表待批列表
+Total=1
+FileName1=t13.json
+RequestHeaderFile=t13_RequestHeader.txt
+ResponseHeaderFile=t13_ResponseHeader.txt
+RawStepEndTime=1656673212572
+RawStepName=设备列表待批列表
+RequestBodyFile=t13_RequestBody.txt
+RawStepStartTime=1656673212566
+URL1=file:

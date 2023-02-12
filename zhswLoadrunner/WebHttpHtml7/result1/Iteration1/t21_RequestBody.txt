@@ -1,0 +1,4 @@
+"{"planNo":"吃吃�\x83","planName":"吃草","patType":1,"patCycle":4,"startDate":"2022-06-19T"
+"16:00:00.000Z","endDate":"2022-06-28T16:00:00.000Z","remark":"","pointList":[{"id":3,"pointNo""
+":"P0003","pointName":"测试巡检�\xB93","address":"湖畔","devNum":13,"remark":"真凉�\xAB"
+"","devId":null}],"starDate":""}"

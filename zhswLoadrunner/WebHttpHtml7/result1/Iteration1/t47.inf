@@ -1,0 +1,13 @@
+[t47]
+SnapshotXmlFile=snapshot_44.xml
+ContentType=application/json
+StepName=Custom Request: 未审核工单重置
+Total=1
+FileName1=t47.json
+RequestHeaderFile=t47_RequestHeader.txt
+ResponseHeaderFile=t47_ResponseHeader.txt
+RawStepEndTime=1656673216097
+RawStepName=未审核工单重置
+RequestBodyFile=t47_RequestBody.txt
+RawStepStartTime=1656673216088
+URL1=file:

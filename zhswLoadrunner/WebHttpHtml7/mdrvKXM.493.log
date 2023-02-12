@@ -1,0 +1,214 @@
+Action3.c(245): web_reg_find started  	[MsgId: MMSG-26355]
+Action3.c(245): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action3.c(249): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action3.c(249): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action3.c(249): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action3.c(252): web_custom_request("已派工单重置") started  	[MsgId: MMSG-26355]
+Action3.c(252): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://192.168.75.145/water_bg/worker/list"  	[MsgId: MERR-26612]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 222.
+Action3.c(234): 进入已派工单成功！
+Action3.c(245): web_reg_find started  	[MsgId: MMSG-26355]
+Action3.c(245): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action3.c(249): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action3.c(249): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action3.c(249): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action3.c(252): web_custom_request("已派工单重置") started  	[MsgId: MMSG-26355]
+Action3.c(252): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://192.168.75.145/water_bg/worker/list"  	[MsgId: MERR-26612]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 223.
+Action3.c(234): 进入已派工单成功！
+Action3.c(245): web_reg_find started  	[MsgId: MMSG-26355]
+Action3.c(245): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action3.c(249): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action3.c(249): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action3.c(249): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action3.c(252): web_custom_request("已派工单重置") started  	[MsgId: MMSG-26355]
+Action3.c(252): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://192.168.75.145/water_bg/worker/list"  	[MsgId: MERR-26612]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 224.
+Action3.c(234): 进入已派工单成功！
+Action3.c(245): web_reg_find started  	[MsgId: MMSG-26355]
+Action3.c(245): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action3.c(249): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action3.c(249): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action3.c(249): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action3.c(252): web_custom_request("已派工单重置") started  	[MsgId: MMSG-26355]
+Action3.c(252): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://192.168.75.145/water_bg/worker/list"  	[MsgId: MERR-26612]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 225.
+Action3.c(234): 进入已派工单成功！
+Action3.c(245): web_reg_find started  	[MsgId: MMSG-26355]
+Action3.c(245): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action3.c(249): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action3.c(249): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action3.c(249): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action3.c(252): web_custom_request("已派工单重置") started  	[MsgId: MMSG-26355]
+Action3.c(252): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://192.168.75.145/water_bg/worker/list"  	[MsgId: MERR-26612]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 226.
+Action3.c(234): 进入已派工单成功！
+Action3.c(245): web_reg_find started  	[MsgId: MMSG-26355]
+Action3.c(245): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action3.c(249): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action3.c(249): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action3.c(249): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action3.c(252): web_custom_request("已派工单重置") started  	[MsgId: MMSG-26355]
+Action3.c(252): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://192.168.75.145/water_bg/worker/list"  	[MsgId: MERR-26612]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 227.
+Action3.c(234): 进入已派工单成功！
+Action3.c(245): web_reg_find started  	[MsgId: MMSG-26355]
+Action3.c(245): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action3.c(249): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action3.c(249): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action3.c(249): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action3.c(252): web_custom_request("已派工单重置") started  	[MsgId: MMSG-26355]
+Action3.c(252): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://192.168.75.145/water_bg/worker/list"  	[MsgId: MERR-26612]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 228.
+Action3.c(234): 进入已派工单成功！
+Action3.c(245): web_reg_find started  	[MsgId: MMSG-26355]
+Action3.c(245): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action3.c(249): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action3.c(249): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action3.c(249): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action3.c(252): web_custom_request("已派工单重置") started  	[MsgId: MMSG-26355]
+Action3.c(252): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://192.168.75.145/water_bg/worker/list"  	[MsgId: MERR-26612]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 229.
+Action3.c(234): 进入已派工单成功！
+Action3.c(245): web_reg_find started  	[MsgId: MMSG-26355]
+Action3.c(245): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action3.c(249): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action3.c(249): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action3.c(249): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action3.c(252): web_custom_request("已派工单重置") started  	[MsgId: MMSG-26355]
+Action3.c(252): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://192.168.75.145/water_bg/worker/list"  	[MsgId: MERR-26612]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 230.
+Action3.c(234): 进入已派工单成功！
+Action3.c(245): web_reg_find started  	[MsgId: MMSG-26355]
+Action3.c(245): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action3.c(249): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action3.c(249): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action3.c(249): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action3.c(252): web_custom_request("已派工单重置") started  	[MsgId: MMSG-26355]
+Action3.c(252): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://192.168.75.145/water_bg/worker/list"  	[MsgId: MERR-26612]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 231.
+Action3.c(234): 进入已派工单成功！
+Action3.c(245): web_reg_find started  	[MsgId: MMSG-26355]
+Action3.c(245): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action3.c(249): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action3.c(249): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action3.c(249): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action3.c(252): web_custom_request("已派工单重置") started  	[MsgId: MMSG-26355]
+Action3.c(252): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://192.168.75.145/water_bg/worker/list"  	[MsgId: MERR-26612]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 232.
+Action3.c(234): 进入已派工单成功！
+Action3.c(245): web_reg_find started  	[MsgId: MMSG-26355]
+Action3.c(245): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action3.c(249): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action3.c(249): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action3.c(249): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action3.c(252): web_custom_request("已派工单重置") started  	[MsgId: MMSG-26355]
+Action3.c(252): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://192.168.75.145/water_bg/worker/list"  	[MsgId: MERR-26612]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 233.
+Action3.c(234): 进入已派工单成功！
+Action3.c(245): web_reg_find started  	[MsgId: MMSG-26355]
+Action3.c(245): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action3.c(249): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action3.c(249): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action3.c(249): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action3.c(252): web_custom_request("已派工单重置") started  	[MsgId: MMSG-26355]
+Action3.c(252): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://192.168.75.145/water_bg/worker/list"  	[MsgId: MERR-26612]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 234.
+Action3.c(234): 进入已派工单成功！
+Action3.c(245): web_reg_find started  	[MsgId: MMSG-26355]
+Action3.c(245): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action3.c(249): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action3.c(249): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action3.c(249): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action3.c(252): web_custom_request("已派工单重置") started  	[MsgId: MMSG-26355]
+Action3.c(252): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://192.168.75.145/water_bg/worker/list"  	[MsgId: MERR-26612]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 235.
+Action3.c(234): 进入已派工单成功！
+Action3.c(245): web_reg_find started  	[MsgId: MMSG-26355]
+Action3.c(245): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action3.c(249): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action3.c(249): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action3.c(249): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action3.c(252): web_custom_request("已派工单重置") started  	[MsgId: MMSG-26355]
+Action3.c(252): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://192.168.75.145/water_bg/worker/list"  	[MsgId: MERR-26612]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 236.
+Action3.c(234): 进入已派工单成功！
+Action3.c(245): web_reg_find started  	[MsgId: MMSG-26355]
+Action3.c(245): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action3.c(249): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action3.c(249): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action3.c(249): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action3.c(252): web_custom_request("已派工单重置") started  	[MsgId: MMSG-26355]
+Action3.c(252): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://192.168.75.145/water_bg/worker/list"  	[MsgId: MERR-26612]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 237.
+Action3.c(234): 进入已派工单成功！
+Action3.c(245): web_reg_find started  	[MsgId: MMSG-26355]
+Action3.c(245): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action3.c(249): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action3.c(249): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action3.c(249): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action3.c(252): web_custom_request("已派工单重置") started  	[MsgId: MMSG-26355]
+Action3.c(252): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://192.168.75.145/water_bg/worker/list"  	[MsgId: MERR-26612]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 238.
+Action3.c(234): 进入已派工单成功！
+Action3.c(245): web_reg_find started  	[MsgId: MMSG-26355]
+Action3.c(245): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action3.c(249): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action3.c(249): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action3.c(249): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action3.c(252): web_custom_request("已派工单重置") started  	[MsgId: MMSG-26355]
+Action3.c(252): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://192.168.75.145/water_bg/worker/list"  	[MsgId: MERR-26612]
+End auto log messages stack.
+
+

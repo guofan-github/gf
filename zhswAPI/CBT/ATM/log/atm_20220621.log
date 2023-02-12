@@ -1,0 +1,132 @@
+[2022-06-21 17:38:10,671] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 17:38:10,687] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-21 17:38:10,732] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 17:38:10,737] INFO test_zhsw_jcss.py(20): 登录请求测试成功
+[2022-06-21 17:38:43,993] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 17:38:43,997] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-21 17:38:44,032] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 17:38:44,034] INFO test_zhsw_jcss.py(20): 登录请求测试成功
+[2022-06-21 17:40:06,339] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 17:40:06,342] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-21 17:40:06,370] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 17:40:06,373] INFO test_zhsw_jcss.py(20): 登录请求测试成功
+[2022-06-21 17:52:20,687] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 17:52:20,689] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-21 17:52:20,732] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 17:52:20,734] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-21 20:50:51,086] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:50:51,094] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-21 20:50:51,140] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:50:51,141] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-21 20:50:51,156] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:50:51,158] INFO test_zhsw_jcss.py(53): 新增接口测试成功
+[2022-06-21 20:50:51,195] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:50:51,197] INFO test_zhsw_jcss.py(88): 【接口测试】新增确定测试失败. 期望结果是OK，而实际测试结果是{"timestamp":"2022-06-19T04:27:33.820+00:00","status":415,"error":"Unsupported Media Type","message":"","path":"//base/addChildBase"}， 响应代码是415。
+请求url: http://192.168.163.131/water_bg/base/addChildBase?twoId=2, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTYxNTg1M30.vjbFkQteMh1OofV_TvGvKmXGuDb225HLOW7mufOj4Uk', 'Cookie': 'JSESSIONID=790DF61ABB22653AA52D365626D63F8A', 'Content-Length': '269', 'Content-Type': 'application/x-www-form-urlencoded'} 
+请求体: name=lbw&longitude=66&latitude=66&useTime=2022-06-20T16%3A00%3A00.000Z&address=%E5%8D%A2%E6%9C%AC%E4%BC%9F%E5%B9%BF%E5%9C%BA&describe=%E4%BB%8E%E7%8E%B0%E5%9C%A8%E5%BC%80%E5%A7%8B%EF%BC%8C%E8%BF%99%E9%87%8C%E5%8F%AB%E5%81%9A%E5%8D%A2%E6%9C%AC%E4%BC%9F%E5%B9%BF%E5%9C%BA
+[2022-06-21 20:50:51,215] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:50:51,217] INFO test_zhsw_jcss.py(118): 【接口测试】编辑测试失败. 期望结果是OK，而实际测试结果是{"timestamp":"2022-06-19T04:27:33.842+00:00","status":415,"error":"Unsupported Media Type","message":"","path":"//base/updateBaseType"}， 响应代码是415。
+请求url: http://192.168.163.131/water_bg/base/updateBaseType, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTYxNTg1M30.vjbFkQteMh1OofV_TvGvKmXGuDb225HLOW7mufOj4Uk', 'Cookie': 'JSESSIONID=790DF61ABB22653AA52D365626D63F8A', 'Content-Length': '255', 'Content-Type': 'application/x-www-form-urlencoded'} 
+请求体: id=1&baseId=8&name=lbw&longitude=66&latitude=6&useTime=2021-03-09&address=%E5%8D%A2%E6%9C%AC%E4%BC%9F%E5%B9%BF%E5%9C%BA&describe=%E4%BB%8E%E7%8E%B0%E5%9C%A8%E5%BC%80%E5%A7%8B%E8%BF%99%E9%87%8C%E5%8F%AB%E5%81%9A%E5%8D%A2%E6%9C%AC%E4%BC%9F%E5%B9%BF%E5%9C%BA
+[2022-06-21 20:50:51,250] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:50:51,252] INFO test_zhsw_jcss.py(143): 申请列表接口测试成功
+[2022-06-21 20:50:51,268] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:50:51,270] INFO test_zhsw_jcss.py(173): 详情接口测试成功
+[2022-06-21 20:50:51,306] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:50:51,313] INFO test_zhsw_jcss.py(208): 【接口测试】修改测试失败. 期望结果是OK，而实际测试结果是{"timestamp":"2022-06-19T04:27:33.927+00:00","status":415,"error":"Unsupported Media Type","message":"","path":"//child/updateChild"}， 响应代码是415。
+请求url: http://192.168.163.131/water_bg/child/updateChild, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTYxNTg1M30.vjbFkQteMh1OofV_TvGvKmXGuDb225HLOW7mufOj4Uk', 'Cookie': 'JSESSIONID=790DF61ABB22653AA52D365626D63F8A', 'Content-Length': '131', 'Content-Type': 'application/x-www-form-urlencoded'} 
+请求体: id=17&stockChildId=4&childName=A%E5%8C%BA%E8%BF%9B%E6%B0%B4%E6%B1%A0ph%E6%A3%80%E6%B5%8B%E4%BB%AA002&childStatus=%E8%89%AF%E5%A5%BD
+[2022-06-21 20:50:51,341] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:50:51,343] INFO test_zhsw_jcss.py(238): 【接口测试】添加测试失败. 期望结果是OK，而实际测试结果是{"timestamp":"2022-06-19T04:27:33.978+00:00","status":415,"error":"Unsupported Media Type","message":"","path":"//child/addChild"}， 响应代码是415。
+请求url: http://192.168.163.131/water_bg/child/addChild, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTYxNTg1M30.vjbFkQteMh1OofV_TvGvKmXGuDb225HLOW7mufOj4Uk', 'Cookie': 'JSESSIONID=790DF61ABB22653AA52D365626D63F8A', 'Content-Length': '65', 'Content-Type': 'application/x-www-form-urlencoded'} 
+请求体: stockChildId=4&childName=%E5%B8%85&childStatus=%E8%89%AF%E5%A5%BD
+[2022-06-21 20:50:51,395] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:50:51,401] INFO test_zhsw_jcss.py(263): 申请设备接口测试成功
+[2022-06-21 20:52:33,337] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:52:33,375] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-21 20:52:33,515] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:52:33,517] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-21 20:52:33,542] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:52:33,543] INFO test_zhsw_jcss.py(53): 新增接口测试成功
+[2022-06-21 20:52:33,578] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:52:33,581] INFO test_zhsw_jcss.py(88): 【接口测试】新增确定测试失败. 期望结果是OK，而实际测试结果是{"timestamp":"2022-06-19T04:29:24.740+00:00","status":415,"error":"Unsupported Media Type","message":"","path":"//base/addChildBase"}， 响应代码是415。
+请求url: http://192.168.163.131/water_bg/base/addChildBase, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTYxNTk2NH0.GWE-pDpd_oCSUFf-TCYMEiVdp5KkyKowyl6X5J4J-Ok', 'Cookie': 'JSESSIONID=04196B05704C24EC9E7A0DF2666C4C68', 'Content-Length': '269', 'Content-Type': 'application/x-www-form-urlencoded'} 
+请求体: name=lbw&longitude=66&latitude=66&useTime=2022-06-20T16%3A00%3A00.000Z&address=%E5%8D%A2%E6%9C%AC%E4%BC%9F%E5%B9%BF%E5%9C%BA&describe=%E4%BB%8E%E7%8E%B0%E5%9C%A8%E5%BC%80%E5%A7%8B%EF%BC%8C%E8%BF%99%E9%87%8C%E5%8F%AB%E5%81%9A%E5%8D%A2%E6%9C%AC%E4%BC%9F%E5%B9%BF%E5%9C%BA
+[2022-06-21 20:52:33,608] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:52:33,612] INFO test_zhsw_jcss.py(118): 【接口测试】编辑测试失败. 期望结果是OK，而实际测试结果是{"timestamp":"2022-06-19T04:29:24.767+00:00","status":415,"error":"Unsupported Media Type","message":"","path":"//base/updateBaseType"}， 响应代码是415。
+请求url: http://192.168.163.131/water_bg/base/updateBaseType, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTYxNTk2NH0.GWE-pDpd_oCSUFf-TCYMEiVdp5KkyKowyl6X5J4J-Ok', 'Cookie': 'JSESSIONID=04196B05704C24EC9E7A0DF2666C4C68', 'Content-Length': '255', 'Content-Type': 'application/x-www-form-urlencoded'} 
+请求体: id=1&baseId=8&name=lbw&longitude=66&latitude=6&useTime=2021-03-09&address=%E5%8D%A2%E6%9C%AC%E4%BC%9F%E5%B9%BF%E5%9C%BA&describe=%E4%BB%8E%E7%8E%B0%E5%9C%A8%E5%BC%80%E5%A7%8B%E8%BF%99%E9%87%8C%E5%8F%AB%E5%81%9A%E5%8D%A2%E6%9C%AC%E4%BC%9F%E5%B9%BF%E5%9C%BA
+[2022-06-21 20:52:33,640] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:52:33,644] INFO test_zhsw_jcss.py(143): 申请列表接口测试成功
+[2022-06-21 20:52:33,660] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:52:33,661] INFO test_zhsw_jcss.py(173): 详情接口测试成功
+[2022-06-21 20:52:33,677] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:52:33,679] INFO test_zhsw_jcss.py(208): 【接口测试】修改测试失败. 期望结果是OK，而实际测试结果是{"timestamp":"2022-06-19T04:29:24.847+00:00","status":415,"error":"Unsupported Media Type","message":"","path":"//child/updateChild"}， 响应代码是415。
+请求url: http://192.168.163.131/water_bg/child/updateChild, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTYxNTk2NH0.GWE-pDpd_oCSUFf-TCYMEiVdp5KkyKowyl6X5J4J-Ok', 'Cookie': 'JSESSIONID=04196B05704C24EC9E7A0DF2666C4C68', 'Content-Length': '131', 'Content-Type': 'application/x-www-form-urlencoded'} 
+请求体: id=17&stockChildId=4&childName=A%E5%8C%BA%E8%BF%9B%E6%B0%B4%E6%B1%A0ph%E6%A3%80%E6%B5%8B%E4%BB%AA002&childStatus=%E8%89%AF%E5%A5%BD
+[2022-06-21 20:52:33,697] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:52:33,699] INFO test_zhsw_jcss.py(238): 【接口测试】添加测试失败. 期望结果是OK，而实际测试结果是{"timestamp":"2022-06-19T04:29:24.871+00:00","status":415,"error":"Unsupported Media Type","message":"","path":"//child/addChild"}， 响应代码是415。
+请求url: http://192.168.163.131/water_bg/child/addChild, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTYxNTk2NH0.GWE-pDpd_oCSUFf-TCYMEiVdp5KkyKowyl6X5J4J-Ok', 'Cookie': 'JSESSIONID=04196B05704C24EC9E7A0DF2666C4C68', 'Content-Length': '65', 'Content-Type': 'application/x-www-form-urlencoded'} 
+请求体: stockChildId=4&childName=%E5%B8%85&childStatus=%E8%89%AF%E5%A5%BD
+[2022-06-21 20:52:33,723] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:52:33,725] INFO test_zhsw_jcss.py(263): 申请设备接口测试成功
+[2022-06-21 20:59:16,803] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:59:16,805] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-21 20:59:16,860] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:59:16,861] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-21 20:59:16,891] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:59:16,987] INFO test_zhsw_jcss.py(53): 新增接口测试成功
+[2022-06-21 20:59:17,007] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:59:17,009] INFO test_zhsw_jcss.py(83): 新增确定接口测试成功
+[2022-06-21 20:59:17,051] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:59:17,052] INFO test_zhsw_jcss.py(118): 【接口测试】编辑测试失败. 期望结果是OK，而实际测试结果是{"timestamp":"2022-06-19T04:36:41.808+00:00","status":415,"error":"Unsupported Media Type","message":"","path":"//base/updateBaseType"}， 响应代码是415。
+请求url: http://192.168.163.131/water_bg/base/updateBaseType, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTYxNjQwMX0.iYO5fy9UV5d-Rs_DOYvsj-H9zaVfvuU7egJ_1htq9MA', 'Cookie': 'JSESSIONID=52642FE784DD8BFC17E61A2F52BDD12D', 'Content-Length': '255', 'Content-Type': 'application/x-www-form-urlencoded'} 
+请求体: id=1&baseId=8&name=lbw&longitude=66&latitude=6&useTime=2021-03-09&address=%E5%8D%A2%E6%9C%AC%E4%BC%9F%E5%B9%BF%E5%9C%BA&describe=%E4%BB%8E%E7%8E%B0%E5%9C%A8%E5%BC%80%E5%A7%8B%E8%BF%99%E9%87%8C%E5%8F%AB%E5%81%9A%E5%8D%A2%E6%9C%AC%E4%BC%9F%E5%B9%BF%E5%9C%BA
+[2022-06-21 20:59:17,070] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:59:17,072] INFO test_zhsw_jcss.py(143): 申请列表接口测试成功
+[2022-06-21 20:59:17,096] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:59:17,098] INFO test_zhsw_jcss.py(173): 详情接口测试成功
+[2022-06-21 20:59:17,113] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:59:17,115] INFO test_zhsw_jcss.py(208): 【接口测试】修改测试失败. 期望结果是OK，而实际测试结果是{"timestamp":"2022-06-19T04:36:41.903+00:00","status":415,"error":"Unsupported Media Type","message":"","path":"//child/updateChild"}， 响应代码是415。
+请求url: http://192.168.163.131/water_bg/child/updateChild, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTYxNjQwMX0.iYO5fy9UV5d-Rs_DOYvsj-H9zaVfvuU7egJ_1htq9MA', 'Cookie': 'JSESSIONID=52642FE784DD8BFC17E61A2F52BDD12D', 'Content-Length': '131', 'Content-Type': 'application/x-www-form-urlencoded'} 
+请求体: id=17&stockChildId=4&childName=A%E5%8C%BA%E8%BF%9B%E6%B0%B4%E6%B1%A0ph%E6%A3%80%E6%B5%8B%E4%BB%AA002&childStatus=%E8%89%AF%E5%A5%BD
+[2022-06-21 20:59:17,160] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:59:17,162] INFO test_zhsw_jcss.py(238): 【接口测试】添加测试失败. 期望结果是OK，而实际测试结果是{"timestamp":"2022-06-19T04:36:41.922+00:00","status":415,"error":"Unsupported Media Type","message":"","path":"//child/addChild"}， 响应代码是415。
+请求url: http://192.168.163.131/water_bg/child/addChild, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTYxNjQwMX0.iYO5fy9UV5d-Rs_DOYvsj-H9zaVfvuU7egJ_1htq9MA', 'Cookie': 'JSESSIONID=52642FE784DD8BFC17E61A2F52BDD12D', 'Content-Length': '65', 'Content-Type': 'application/x-www-form-urlencoded'} 
+请求体: stockChildId=4&childName=%E5%B8%85&childStatus=%E8%89%AF%E5%A5%BD
+[2022-06-21 20:59:17,209] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 20:59:17,211] INFO test_zhsw_jcss.py(263): 申请设备接口测试成功
+[2022-06-21 21:00:36,517] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 21:00:36,518] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-21 21:00:36,561] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 21:00:36,563] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-21 21:00:36,608] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 21:00:36,610] INFO test_zhsw_jcss.py(58): 【接口测试】新增测试失败. 期望结果是OK，而实际测试结果是{"timestamp":"2022-06-19T04:38:08.026+00:00","status":500,"error":"Internal Server Error","message":"","path":"//base/twoBase"}， 响应代码是500。
+请求url: http://192.168.163.131/water_bg/base/twoBase, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTYxNjQ4N30.MKvszRMF5dtNLmHf8qoP1IdemMxs_75u-NxbevckkeE', 'Cookie': 'JSESSIONID=E0BECE3C7F75AF714650128AC8EC0BA7'} 
+请求体: None
+[2022-06-21 21:00:36,638] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 21:00:36,640] INFO test_zhsw_jcss.py(83): 新增确定接口测试成功
+[2022-06-21 21:00:36,670] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 21:00:36,672] INFO test_zhsw_jcss.py(113): 编辑接口测试成功
+[2022-06-21 21:00:36,701] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 21:00:36,702] INFO test_zhsw_jcss.py(143): 申请列表接口测试成功
+[2022-06-21 21:00:36,749] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 21:00:36,750] INFO test_zhsw_jcss.py(173): 详情接口测试成功
+[2022-06-21 21:00:36,802] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 21:00:36,805] INFO test_zhsw_jcss.py(203): 修改接口测试成功
+[2022-06-21 21:00:36,853] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 21:00:36,855] INFO test_zhsw_jcss.py(233): 添加接口测试成功
+[2022-06-21 21:00:36,873] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-21 21:00:36,875] INFO test_zhsw_jcss.py(263): 申请设备接口测试成功

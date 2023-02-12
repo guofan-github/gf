@@ -1,0 +1,13 @@
+[t34]
+SnapshotXmlFile=snapshot_31.xml
+ContentType=application/json
+StepName=Custom Request: 进入维修系统首页测试
+Total=1
+FileName1=t34.json
+RequestHeaderFile=t34_RequestHeader.txt
+ResponseHeaderFile=t34_ResponseHeader.txt
+RawStepEndTime=1656673214859
+RawStepName=进入维修系统首页测试
+RequestBodyFile=t34_RequestBody.txt
+RawStepStartTime=1656673214852
+URL1=file:

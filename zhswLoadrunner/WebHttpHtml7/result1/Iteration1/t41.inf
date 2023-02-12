@@ -1,0 +1,13 @@
+[t41]
+SnapshotXmlFile=snapshot_38.xml
+ContentType=application/json
+StepName=Custom Request: 进入已派工单
+Total=1
+FileName1=t41.json
+RequestHeaderFile=t41_RequestHeader.txt
+ResponseHeaderFile=t41_ResponseHeader.txt
+RawStepEndTime=1656673215516
+RawStepName=进入已派工单
+RequestBodyFile=t41_RequestBody.txt
+RawStepStartTime=1656673215509
+URL1=file:

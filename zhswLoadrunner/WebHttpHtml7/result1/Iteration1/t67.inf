@@ -1,0 +1,13 @@
+[t67]
+SnapshotXmlFile=snapshot_63.xml
+ContentType=application/json
+StepName=Custom Request: 泵站数据信息查询
+Total=1
+FileName1=t67.json
+RequestHeaderFile=t67_RequestHeader.txt
+ResponseHeaderFile=t67_ResponseHeader.txt
+RawStepEndTime=1656673218098
+RawStepName=泵站数据信息查询
+RequestBodyFile=t67_RequestBody.txt
+RawStepStartTime=1656673218088
+URL1=file:

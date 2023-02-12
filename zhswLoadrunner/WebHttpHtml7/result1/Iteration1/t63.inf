@@ -1,0 +1,13 @@
+[t63]
+SnapshotXmlFile=snapshot_59.xml
+ContentType=application/json
+StepName=Custom Request: 采购反馈提交操作
+Total=1
+FileName1=t63.json
+RequestHeaderFile=t63_RequestHeader.txt
+ResponseHeaderFile=t63_ResponseHeader.txt
+RawStepEndTime=1656673217640
+RawStepName=采购反馈提交操作
+RequestBodyFile=t63_RequestBody.txt
+RawStepStartTime=1656673217632
+URL1=file:

@@ -1,0 +1,13 @@
+[t62]
+SnapshotXmlFile=snapshot_58.xml
+ContentType=application/json
+StepName=Custom Request: 采购审核通过操作
+Total=1
+FileName1=t62.json
+RequestHeaderFile=t62_RequestHeader.txt
+ResponseHeaderFile=t62_ResponseHeader.txt
+RawStepEndTime=1656673217529
+RawStepName=采购审核通过操作
+RequestBodyFile=t62_RequestBody.txt
+RawStepStartTime=1656673217521
+URL1=file:

@@ -1,0 +1,13 @@
+[t61]
+SnapshotXmlFile=snapshot_57.xml
+ContentType=application/json
+StepName=Custom Request: 添加采购项
+Total=1
+FileName1=t61.json
+RequestHeaderFile=t61_RequestHeader.txt
+ResponseHeaderFile=t61_ResponseHeader.txt
+RawStepEndTime=1656673217417
+RawStepName=添加采购项
+RequestBodyFile=t61_RequestBody.txt
+RawStepStartTime=1656673217410
+URL1=file:

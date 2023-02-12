@@ -1,0 +1,9 @@
+GET /water_bg/patrolTask/findById?id=1 HTTP/1.1
+Cookie: JSESSIONID=ADD9FBEBDF168994ECF5D02413F3A409
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Accept: */*
+Host: 192.168.75.145
+Connection: Keep-Alive
+Cache-Control: no-cache
+

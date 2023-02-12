@@ -1,0 +1,13 @@
+[t15]
+SnapshotXmlFile=snapshot_14.xml
+ContentType=application/json
+StepName=Custom Request: 设备属性添加
+Total=1
+FileName1=t15.json
+RequestHeaderFile=t15_RequestHeader.txt
+ResponseHeaderFile=t15_ResponseHeader.txt
+RawStepEndTime=1656673212779
+RawStepName=设备属性添加
+RequestBodyFile=t15_RequestBody.txt
+RawStepStartTime=1656673212768
+URL1=file:

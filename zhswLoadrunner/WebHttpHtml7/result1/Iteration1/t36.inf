@@ -1,0 +1,13 @@
+[t36]
+SnapshotXmlFile=snapshot_33.xml
+ContentType=application/json
+StepName=Custom Request: 未派工单查询
+Total=1
+FileName1=t36.json
+RequestHeaderFile=t36_RequestHeader.txt
+ResponseHeaderFile=t36_ResponseHeader.txt
+RawStepEndTime=1656673215046
+RawStepName=未派工单查询
+RequestBodyFile=t36_RequestBody.txt
+RawStepStartTime=1656673215039
+URL1=file:

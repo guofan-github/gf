@@ -1,0 +1,13 @@
+[t50]
+SnapshotXmlFile=snapshot_47.xml
+ContentType=application/json
+StepName=Custom Request: 进入已审核工单
+Total=1
+FileName1=t50.json
+RequestHeaderFile=t50_RequestHeader.txt
+ResponseHeaderFile=t50_ResponseHeader.txt
+RawStepEndTime=1656673216375
+RawStepName=进入已审核工单
+RequestBodyFile=t50_RequestBody.txt
+RawStepStartTime=1656673216369
+URL1=file:

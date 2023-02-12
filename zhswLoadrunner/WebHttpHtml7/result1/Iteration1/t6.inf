@@ -1,0 +1,13 @@
+[t6]
+SnapshotXmlFile=snapshot_5.xml
+ContentType=application/json
+StepName=Custom Request: 基础设施添加
+Total=1
+FileName1=t6.json
+RequestHeaderFile=t6_RequestHeader.txt
+ResponseHeaderFile=t6_ResponseHeader.txt
+RawStepEndTime=1656673211891
+RawStepName=基础设施添加
+RequestBodyFile=t6_RequestBody.txt
+RawStepStartTime=1656673211884
+URL1=file:

@@ -1,0 +1,13 @@
+[t12]
+SnapshotXmlFile=snapshot_11.xml
+ContentType=application/json
+StepName=Url: 设备列表分配
+Total=1
+FileName1=t12.json
+RequestHeaderFile=t12_RequestHeader.txt
+ResponseHeaderFile=t12_ResponseHeader.txt
+RawStepEndTime=1656673212477
+RawStepName=设备列表分配
+RequestBodyFile=t12_RequestBody.txt
+RawStepStartTime=1656673212470
+URL1=file:

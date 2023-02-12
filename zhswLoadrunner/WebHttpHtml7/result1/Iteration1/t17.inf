@@ -1,0 +1,13 @@
+[t17]
+SnapshotXmlFile=snapshot_16.xml
+ContentType=application/json
+StepName=Url: 爆管监控
+Total=1
+FileName1=t17.json
+RequestHeaderFile=t17_RequestHeader.txt
+ResponseHeaderFile=t17_ResponseHeader.txt
+RawStepEndTime=1656673212978
+RawStepName=爆管监控
+RequestBodyFile=t17_RequestBody.txt
+RawStepStartTime=1656673212970
+URL1=file:

@@ -1,0 +1,13 @@
+[t64]
+SnapshotXmlFile=snapshot_60.xml
+ContentType=application/json
+StepName=Url: 泵站信息页面
+Total=1
+FileName1=t64.json
+RequestHeaderFile=t64_RequestHeader.txt
+ResponseHeaderFile=t64_ResponseHeader.txt
+RawStepEndTime=1656673217767
+RawStepName=泵站信息页面
+RequestBodyFile=t64_RequestBody.txt
+RawStepStartTime=1656673217760
+URL1=file:

@@ -1,0 +1,13 @@
+[t24]
+SnapshotXmlFile=snapshot_22.xml
+ContentType=application/json
+StepName=Url: web_url
+Total=1
+FileName1=t24.json
+RequestHeaderFile=t24_RequestHeader.txt
+ResponseHeaderFile=t24_ResponseHeader.txt
+RawStepEndTime=1656673213748
+RawStepName=web_url
+RequestBodyFile=t24_RequestBody.txt
+RawStepStartTime=1656673213742
+URL1=file:

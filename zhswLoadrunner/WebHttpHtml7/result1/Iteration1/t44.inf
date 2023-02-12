@@ -1,0 +1,13 @@
+[t44]
+SnapshotXmlFile=snapshot_41.xml
+ContentType=application/json
+StepName=Custom Request: 已派工单删除
+Total=1
+FileName1=t44.json
+RequestHeaderFile=t44_RequestHeader.txt
+ResponseHeaderFile=t44_ResponseHeader.txt
+RawStepEndTime=1656673215799
+RawStepName=已派工单删除
+RequestBodyFile=t44_RequestBody.txt
+RawStepStartTime=1656673215791
+URL1=file:

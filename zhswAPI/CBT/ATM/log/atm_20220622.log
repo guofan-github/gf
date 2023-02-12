@@ -1,0 +1,108 @@
+[2022-06-22 11:09:00,164] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:09:00,169] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-22 11:09:00,237] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:09:00,259] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-22 11:09:00,320] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:09:00,322] INFO test_zhsw_jcss.py(58): 【接口测试】新增测试失败. 期望结果是OK，而实际测试结果是{"timestamp":"2022-06-19T06:42:37.398+00:00","status":500,"error":"Internal Server Error","message":"","path":"//base/twoBase"}， 响应代码是500。
+请求url: http://192.168.163.131/water_bg/base/twoBase, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTYyMzk1N30.f24xActvSvmY6wP16jFesyfvUTino6OxKre5w7lvErI', 'Cookie': 'JSESSIONID=C89EDC5CC68B6BA95674546C50F93454'} 
+请求体: None
+[2022-06-22 11:09:00,365] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:09:00,367] INFO test_zhsw_jcss.py(83): 新增确定接口测试成功
+[2022-06-22 11:09:00,386] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:09:00,390] INFO test_zhsw_jcss.py(113): 编辑接口测试成功
+[2022-06-22 11:09:00,410] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:09:00,412] INFO test_zhsw_jcss.py(143): 申请列表接口测试成功
+[2022-06-22 11:09:00,444] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:09:00,450] INFO test_zhsw_jcss.py(173): 详情接口测试成功
+[2022-06-22 11:09:00,500] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:09:00,502] INFO test_zhsw_jcss.py(203): 修改接口测试成功
+[2022-06-22 11:09:00,546] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:09:00,549] INFO test_zhsw_jcss.py(233): 添加接口测试成功
+[2022-06-22 11:09:00,579] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:09:00,581] INFO test_zhsw_jcss.py(263): 申请设备接口测试成功
+[2022-06-22 11:19:04,828] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:19:04,831] INFO test_login_api.py(27): 【接口测试】登录请求测试失败. 期望结果是郭凡，而实际测试结果是{"code":200,"msg":"范驰","data":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTYyNDYxMn0.Lco_16Px38XzudDy9ZwM6qpPSCkJCShMwmiCkh3mu1I"}， 响应代码是200。
+请求url: http://192.168.163.131/water_bg/user/login, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '40', 'Content-Type': 'application/json'} 
+请求体: b'{"userName": "admin", "password": "123"}'
+[2022-06-22 11:19:04,884] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:19:04,886] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-22 11:19:04,934] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:19:04,936] INFO test_zhsw_jcss.py(53): 新增接口测试成功
+[2022-06-22 11:19:04,987] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:19:04,990] INFO test_zhsw_jcss.py(83): 新增确定接口测试成功
+[2022-06-22 11:19:05,071] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:19:05,073] INFO test_zhsw_jcss.py(113): 编辑接口测试成功
+[2022-06-22 11:19:05,170] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:19:05,172] INFO test_zhsw_jcss.py(143): 申请列表接口测试成功
+[2022-06-22 11:19:05,274] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:19:05,275] INFO test_zhsw_jcss.py(173): 详情接口测试成功
+[2022-06-22 11:19:05,312] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:19:05,313] INFO test_zhsw_jcss.py(203): 修改接口测试成功
+[2022-06-22 11:19:05,370] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:19:05,372] INFO test_zhsw_jcss.py(233): 添加接口测试成功
+[2022-06-22 11:19:05,445] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:19:05,448] INFO test_zhsw_jcss.py(263): 申请设备接口测试成功
+[2022-06-22 11:19:56,769] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:19:56,770] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-22 11:19:56,824] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:19:56,826] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-22 11:19:56,870] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:19:56,871] INFO test_zhsw_jcss.py(58): 【接口测试】新增测试失败. 期望结果是OK，而实际测试结果是{"timestamp":"2022-06-19T06:54:28.661+00:00","status":500,"error":"Internal Server Error","message":"","path":"//base/twoBase"}， 响应代码是500。
+请求url: http://192.168.163.131/water_bg/base/twoBase, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTYyNDY2OH0.T2J_FWO20ot1Kg9GXLSXcD6tpI5pQhfP6DlHxOj0suQ', 'Cookie': 'JSESSIONID=5BF1D2761B04FD8663AC85D61062C7D7'} 
+请求体: None
+[2022-06-22 11:19:56,913] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:19:56,915] INFO test_zhsw_jcss.py(83): 新增确定接口测试成功
+[2022-06-22 11:19:56,951] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:19:56,953] INFO test_zhsw_jcss.py(113): 编辑接口测试成功
+[2022-06-22 11:19:56,989] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:19:56,991] INFO test_zhsw_jcss.py(143): 申请列表接口测试成功
+[2022-06-22 11:19:57,039] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:19:57,041] INFO test_zhsw_jcss.py(173): 详情接口测试成功
+[2022-06-22 11:19:57,067] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:19:57,069] INFO test_zhsw_jcss.py(203): 修改接口测试成功
+[2022-06-22 11:19:57,124] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:19:57,125] INFO test_zhsw_jcss.py(233): 添加接口测试成功
+[2022-06-22 11:19:57,213] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 11:19:57,215] INFO test_zhsw_jcss.py(263): 申请设备接口测试成功
+[2022-06-22 20:39:36,107] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 20:39:36,138] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-22 20:39:36,207] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 20:39:36,208] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-22 20:39:36,259] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 20:39:36,262] INFO test_zhsw_jcss.py(58): 【接口测试】新增测试失败. 期望结果是OK，而实际测试结果是{"timestamp":"2022-06-19T13:15:48.740+00:00","status":500,"error":"Internal Server Error","message":"","path":"//base/twoBase"}， 响应代码是500。
+请求url: http://192.168.163.131/water_bg/base/twoBase, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZG1pbiIsImV4cCI6MTY1NTY0NzU0OH0.Vohw63HYuM4BlJZ5Fers_BLqMyEiTfba88WHZvlSW9A', 'Cookie': 'JSESSIONID=A691F4921EBB106E4F1BB4D208D6468E'} 
+请求体: None
+[2022-06-22 20:39:36,363] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 20:39:36,365] INFO test_zhsw_jcss.py(113): 编辑接口测试成功
+[2022-06-22 20:39:36,454] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 20:39:36,457] INFO test_zhsw_jcss.py(143): 申请列表接口测试成功
+[2022-06-22 20:39:36,502] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 20:39:36,504] INFO test_zhsw_jcss.py(173): 详情接口测试成功
+[2022-06-22 20:39:36,559] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 20:39:36,561] INFO test_zhsw_jcss.py(203): 修改接口测试成功
+[2022-06-22 20:39:36,614] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 20:39:36,616] INFO test_zhsw_jcss.py(233): 添加接口测试成功
+[2022-06-22 20:39:36,678] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 20:39:36,681] INFO test_zhsw_jcss.py(263): 申请设备接口测试成功
+[2022-06-22 20:48:39,322] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 20:48:39,325] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-22 20:55:28,552] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 20:55:28,555] INFO test_login_api.py(22): 登录请求测试成功
+[2022-06-22 20:55:28,660] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 20:55:28,664] INFO test_zhsw_jcss.py(22): 基础设施泵站接口测试成功
+[2022-06-22 20:55:28,717] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 20:55:28,718] INFO test_zhsw_jcss.py(113): 编辑接口测试成功
+[2022-06-22 20:55:28,747] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 20:55:28,749] INFO test_zhsw_jcss.py(143): 申请列表接口测试成功
+[2022-06-22 20:55:28,791] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 20:55:28,793] INFO test_zhsw_jcss.py(173): 详情接口测试成功
+[2022-06-22 20:55:28,818] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 20:55:28,821] INFO test_zhsw_jcss.py(203): 修改接口测试成功
+[2022-06-22 20:55:28,858] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 20:55:28,860] INFO test_zhsw_jcss.py(233): 添加接口测试成功
+[2022-06-22 20:55:28,917] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-06-22 20:55:28,922] INFO test_zhsw_jcss.py(263): 申请设备接口测试成功

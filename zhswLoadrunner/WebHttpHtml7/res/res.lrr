@@ -1,0 +1,32 @@
+[Scenario]
+Product=HPE LoadRunner Controller
+Version=12.55.0.0
+Path=Scenario1
+Subject=
+Result_file=E:\git\zhswLoadrunner\WebHttpHtml7\res\res.lrr
+Description=
+ResultName=res
+Time_Zone=-28800
+Start_time=1656673371
+Daylight_Bias=0
+Stop_time=1656673838
+[Configuration]
+Public_local=1
+Is_mix=1
+Is_runner_file=0
+Runner_file=
+[Running_mode]
+Start_reason=By command
+Stop_reason=By a user
+[Data Collection]
+FullData=1
+[Scenario_summary]
+Scenario Type=Manual Scenario
+Goal Profile Name=Schedule 1
+Mode=Scenario Scheduling
+Scenario Duration=Start 20 Vusers: 1 every 00:00:10 (HH:MM:SS); Run for 00:03:00 (HH:MM:SS); Stop all Vusers: 1 every 00:00:05 (HH:MM:SS)
+Load Behavior=Initialize each Vuser just before it runs
+[Scripts]
+WebHttpHtml7=E:\git\zhswLoadrunner\WebHttpHtml7\WebHttpHtml7.usr
+[Scripts_types]
+WebHttpHtml7=Multi+QTWeb

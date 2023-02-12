@@ -1,0 +1,44 @@
+[2022-07-12 10:17:24,530] INFO report.py(158): None
+[2022-07-12 10:18:54,165] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-07-12 10:18:54,167] ERROR test_login_api.py(39): 登录请求遇到意外错误，错误原因：HTTPConnectionPool(host='mytest', port=80): Max retries exceeded with url: /water_bg/user/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021C110CCE08>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))。
+[2022-07-12 10:18:56,436] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-07-12 10:18:56,440] ERROR test_login_api.py(39): 登录请求遇到意外错误，错误原因：HTTPConnectionPool(host='mytest', port=80): Max retries exceeded with url: /water_bg/user/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021C110DBB08>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))。
+[2022-07-12 10:19:40,832] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-07-12 10:19:40,833] INFO test_login_api.py(31): 【接口测试】登录请求测试失败. 期望结果是郭凡，而实际测试结果是{"code":400,"msg":"密码错误","data":null}， 响应代码是200。
+请求url: http://192.168.163.131/water_bg/user/login, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '45', 'Content-Type': 'application/json'} 
+请求体: b'{"userName": "admin", "password": "Milor123"}'
+[2022-07-12 10:19:40,851] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-07-12 10:19:40,853] INFO test_login_api.py(26): 登录请求测试成功
+[2022-07-12 10:20:10,492] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-07-12 10:20:10,493] INFO test_login_api.py(31): 【接口测试】登录请求测试失败. 期望结果是郭凡，而实际测试结果是{"code":400,"msg":"密码错误","data":null}， 响应代码是200。
+请求url: http://192.168.163.131/water_bg/user/login, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '45', 'Content-Type': 'application/json'} 
+请求体: b'{"userName": "admin", "password": "Milor123"}'
+[2022-07-12 10:20:10,513] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-07-12 10:20:10,515] INFO test_login_api.py(26): 登录请求测试成功
+[2022-07-12 10:22:13,962] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-07-12 10:22:13,963] INFO test_login_api.py(26): 登录请求测试成功
+[2022-07-12 10:22:13,993] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-07-12 10:22:13,994] INFO test_login_api.py(26): 登录请求测试成功
+[2022-07-12 10:49:58,154] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-07-12 10:49:58,155] INFO test_login_api.py(26): 登录请求测试成功
+[2022-07-12 10:49:58,186] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-07-12 10:49:58,187] INFO test_login_api.py(31): 【接口测试】登录请求测试失败. 期望结果是用户名错误，而实际测试结果是{"code":400,"msg":"用户名不存在","data":null}， 响应代码是200。
+请求url: http://192.168.163.131/water_bg/user/login, 
+请求头: {'User-Agent': 'python-requests/2.27.1', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '40', 'Content-Type': 'application/json'} 
+请求体: b'{"userName": "adasdas", "password": 123}'
+[2022-07-12 10:49:58,203] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-07-12 10:49:58,207] INFO test_login_api.py(26): 登录请求测试成功
+[2022-07-12 10:50:30,431] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-07-12 10:50:30,433] INFO test_login_api.py(26): 登录请求测试成功
+[2022-07-12 10:50:30,443] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-07-12 10:50:30,444] INFO test_login_api.py(26): 登录请求测试成功
+[2022-07-12 10:50:30,477] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-07-12 10:50:30,479] INFO test_login_api.py(26): 登录请求测试成功
+[2022-07-12 10:52:09,557] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-07-12 10:52:09,559] INFO test_login_api.py(26): 登录请求测试成功
+[2022-07-12 10:52:09,596] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-07-12 10:52:09,598] INFO test_login_api.py(26): 登录请求测试成功
+[2022-07-12 10:52:09,627] INFO report.py(34): insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s, %s, %s, %s, %s, %s, %s)
+[2022-07-12 10:52:09,630] INFO test_login_api.py(26): 登录请求测试成功

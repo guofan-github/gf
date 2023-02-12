@@ -1,0 +1,13 @@
+[t54]
+SnapshotXmlFile=snapshot_51.xml
+ContentType=application/json
+StepName=Custom Request: 进入设备维修
+Total=1
+FileName1=t54.json
+RequestHeaderFile=t54_RequestHeader.txt
+ResponseHeaderFile=t54_ResponseHeader.txt
+RawStepEndTime=1656673216772
+RawStepName=进入设备维修
+RequestBodyFile=t54_RequestBody.txt
+RawStepStartTime=1656673216762
+URL1=file:

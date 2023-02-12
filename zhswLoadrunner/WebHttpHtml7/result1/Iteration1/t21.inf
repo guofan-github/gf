@@ -1,0 +1,13 @@
+[t21]
+SnapshotXmlFile=snapshot_19.xml
+ContentType=application/json
+StepName=Custom Request: web_custom_request
+Total=1
+FileName1=t21.json
+RequestHeaderFile=t21_RequestHeader.txt
+ResponseHeaderFile=t21_ResponseHeader.txt
+RawStepEndTime=1656673213372
+RawStepName=web_custom_request
+RequestBodyFile=t21_RequestBody.txt
+RawStepStartTime=1656673213364
+URL1=file:

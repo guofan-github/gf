@@ -1,0 +1,13 @@
+[t40]
+SnapshotXmlFile=snapshot_37.xml
+ContentType=application/json
+StepName=Custom Request: 未派工单删除
+Total=1
+FileName1=t40.json
+RequestHeaderFile=t40_RequestHeader.txt
+ResponseHeaderFile=t40_ResponseHeader.txt
+RawStepEndTime=1656673215422
+RawStepName=未派工单删除
+RequestBodyFile=t40_RequestBody.txt
+RawStepStartTime=1656673215416
+URL1=file:

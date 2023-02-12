@@ -1,0 +1,13 @@
+[t8]
+SnapshotXmlFile=snapshot_7.xml
+ContentType=application/json
+StepName=Custom Request: 设备列表查询
+Total=1
+FileName1=t8.json
+RequestHeaderFile=t8_RequestHeader.txt
+ResponseHeaderFile=t8_ResponseHeader.txt
+RawStepEndTime=1656673212095
+RawStepName=设备列表查询
+RequestBodyFile=t8_RequestBody.txt
+RawStepStartTime=1656673212087
+URL1=file:

@@ -1,0 +1,13 @@
+[t37]
+SnapshotXmlFile=snapshot_34.xml
+ContentType=application/json
+StepName=Custom Request: 添加未派工单
+Total=1
+FileName1=t37.json
+RequestHeaderFile=t37_RequestHeader.txt
+ResponseHeaderFile=t37_ResponseHeader.txt
+RawStepEndTime=1656673215139
+RawStepName=添加未派工单
+RequestBodyFile=t37_RequestBody.txt
+RawStepStartTime=1656673215131
+URL1=file:

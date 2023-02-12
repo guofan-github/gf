@@ -1,0 +1,380 @@
+[
+    {
+        "stepId": "STEP1",
+        "stepName": "Custom Request: 登录",
+        "infFile": "t2.inf",
+        "time": 1656673211449
+    },
+    {
+        "stepId": "STEP2",
+        "stepName": "Custom Request: 基础设施编辑",
+        "infFile": "t3.inf",
+        "time": 1656673211591
+    },
+    {
+        "stepId": "STEP3",
+        "stepName": "Url: web_url",
+        "infFile": "t4.inf",
+        "time": 1656673211693
+    },
+    {
+        "stepId": "STEP4",
+        "stepName": "Custom Request: 基础设施修改",
+        "infFile": "t5.inf",
+        "time": 1656673211797
+    },
+    {
+        "stepId": "STEP5",
+        "stepName": "Custom Request: 基础设施添加",
+        "infFile": "t6.inf",
+        "time": 1656673211894
+    },
+    {
+        "stepId": "STEP6",
+        "stepName": "Url: web_url",
+        "infFile": "t7.inf",
+        "time": 1656673211991
+    },
+    {
+        "stepId": "STEP7",
+        "stepName": "Custom Request: 设备列表查询",
+        "infFile": "t8.inf",
+        "time": 1656673212098
+    },
+    {
+        "stepId": "STEP8",
+        "stepName": "Url: 设备列表详情",
+        "infFile": "t9.inf",
+        "time": 1656673212192
+    },
+    {
+        "stepId": "STEP9",
+        "stepName": "Custom Request: 设备列表修改",
+        "infFile": "t10.inf",
+        "time": 1656673212288
+    },
+    {
+        "stepId": "STEP10",
+        "stepName": "Url: 设备列表分配列表",
+        "infFile": "t11.inf",
+        "time": 1656673212384
+    },
+    {
+        "stepId": "STEP11",
+        "stepName": "Url: 设备列表分配",
+        "infFile": "t12.inf",
+        "time": 1656673212481
+    },
+    {
+        "stepId": "STEP12",
+        "stepName": "Url: 设备列表待批列表",
+        "infFile": "t13.inf",
+        "time": 1656673212574
+    },
+    {
+        "stepId": "STEP13",
+        "stepName": "Url: 设备列表已批列表",
+        "infFile": "t14.inf",
+        "time": 1656673212667
+    },
+    {
+        "stepId": "STEP14",
+        "stepName": "Custom Request: 设备属性添加",
+        "infFile": "t15.inf",
+        "time": 1656673212781
+    },
+    {
+        "stepId": "STEP15",
+        "stepName": "Custom Request: 设备属性修改",
+        "infFile": "t16.inf",
+        "time": 1656673212870
+    },
+    {
+        "stepId": "STEP16",
+        "stepName": "Url: 爆管监控",
+        "infFile": "t17.inf",
+        "time": 1656673212981
+    },
+    {
+        "stepId": "STEP17",
+        "stepName": "Custom Request: 登录",
+        "infFile": "t19.inf",
+        "time": 1656673213122
+    },
+    {
+        "stepId": "STEP18",
+        "stepName": "Custom Request: web_custom_request",
+        "infFile": "t20.inf",
+        "time": 1656673213249
+    },
+    {
+        "stepId": "STEP19",
+        "stepName": "Custom Request: web_custom_request",
+        "infFile": "t21.inf",
+        "time": 1656673213375
+    },
+    {
+        "stepId": "STEP20",
+        "stepName": "Url: web_url",
+        "infFile": "t22.inf",
+        "time": 1656673213503
+    },
+    {
+        "stepId": "STEP21",
+        "stepName": "Custom Request: web_custom_request",
+        "infFile": "t23.inf",
+        "time": 1656673213628
+    },
+    {
+        "stepId": "STEP22",
+        "stepName": "Url: web_url",
+        "infFile": "t24.inf",
+        "time": 1656673213751
+    },
+    {
+        "stepId": "STEP23",
+        "stepName": "Url: web_url",
+        "infFile": "t25.inf",
+        "time": 1656673213878
+    },
+    {
+        "stepId": "STEP24",
+        "stepName": "Url: web_url",
+        "infFile": "t26.inf",
+        "time": 1656673214004
+    },
+    {
+        "stepId": "STEP25",
+        "stepName": "Custom Request: web_custom_request",
+        "infFile": "t27.inf",
+        "time": 1656673214132
+    },
+    {
+        "stepId": "STEP26",
+        "stepName": "Url: web_url",
+        "infFile": "t28.inf",
+        "time": 1656673214252
+    },
+    {
+        "stepId": "STEP27",
+        "stepName": "Url: web_url",
+        "infFile": "t29.inf",
+        "time": 1656673214377
+    },
+    {
+        "stepId": "STEP28",
+        "stepName": "Url: web_url",
+        "infFile": "t30.inf",
+        "time": 1656673214499
+    },
+    {
+        "stepId": "STEP29",
+        "stepName": "Custom Request: web_custom_request",
+        "infFile": "t31.inf",
+        "time": 1656673214630
+    },
+    {
+        "stepId": "STEP30",
+        "stepName": "Custom Request: 登陆测试",
+        "infFile": "t33.inf",
+        "time": 1656673214751
+    },
+    {
+        "stepId": "STEP31",
+        "stepName": "Custom Request: 进入维修系统首页测试",
+        "infFile": "t34.inf",
+        "time": 1656673214862
+    },
+    {
+        "stepId": "STEP32",
+        "stepName": "Custom Request: 进入未派工单",
+        "infFile": "t35.inf",
+        "time": 1656673214953
+    },
+    {
+        "stepId": "STEP33",
+        "stepName": "Custom Request: 未派工单查询",
+        "infFile": "t36.inf",
+        "time": 1656673215049
+    },
+    {
+        "stepId": "STEP34",
+        "stepName": "Custom Request: 添加未派工单",
+        "infFile": "t37.inf",
+        "time": 1656673215142
+    },
+    {
+        "stepId": "STEP35",
+        "stepName": "Custom Request: 未派工单重置",
+        "infFile": "t38.inf",
+        "time": 1656673215240
+    },
+    {
+        "stepId": "STEP36",
+        "stepName": "Custom Request: 未派工单修改",
+        "infFile": "t39.inf",
+        "time": 1656673215331
+    },
+    {
+        "stepId": "STEP37",
+        "stepName": "Custom Request: 未派工单删除",
+        "infFile": "t40.inf",
+        "time": 1656673215425
+    },
+    {
+        "stepId": "STEP38",
+        "stepName": "Custom Request: 进入已派工单",
+        "infFile": "t41.inf",
+        "time": 1656673215518
+    },
+    {
+        "stepId": "STEP39",
+        "stepName": "Custom Request: 已派工单重置",
+        "infFile": "t42.inf",
+        "time": 1656673215611
+    },
+    {
+        "stepId": "STEP40",
+        "stepName": "Custom Request: 已派工单去审核",
+        "infFile": "t43.inf",
+        "time": 1656673215705
+    },
+    {
+        "stepId": "STEP41",
+        "stepName": "Custom Request: 已派工单删除",
+        "infFile": "t44.inf",
+        "time": 1656673215801
+    },
+    {
+        "stepId": "STEP42",
+        "stepName": "Custom Request: 进入未审核工单",
+        "infFile": "t45.inf",
+        "time": 1656673215895
+    },
+    {
+        "stepId": "STEP43",
+        "stepName": "Custom Request: 未审核工单查询",
+        "infFile": "t46.inf",
+        "time": 1656673215993
+    },
+    {
+        "stepId": "STEP44",
+        "stepName": "Custom Request: 未审核工单重置",
+        "infFile": "t47.inf",
+        "time": 1656673216100
+    },
+    {
+        "stepId": "STEP45",
+        "stepName": "Custom Request: 未审核工单审核",
+        "infFile": "t48.inf",
+        "time": 1656673216194
+    },
+    {
+        "stepId": "STEP46",
+        "stepName": "Custom Request: 未审核工单删除",
+        "infFile": "t49.inf",
+        "time": 1656673216288
+    },
+    {
+        "stepId": "STEP47",
+        "stepName": "Custom Request: 进入已审核工单",
+        "infFile": "t50.inf",
+        "time": 1656673216378
+    },
+    {
+        "stepId": "STEP48",
+        "stepName": "Custom Request: 已审核工单查询",
+        "infFile": "t51.inf",
+        "time": 1656673216478
+    },
+    {
+        "stepId": "STEP49",
+        "stepName": "Custom Request: 已审核工单重置",
+        "infFile": "t52.inf",
+        "time": 1656673216586
+    },
+    {
+        "stepId": "STEP50",
+        "stepName": "Custom Request: web_custom_request",
+        "infFile": "t53.inf",
+        "time": 1656673216678
+    },
+    {
+        "stepId": "STEP51",
+        "stepName": "Custom Request: 进入设备维修",
+        "infFile": "t54.inf",
+        "time": 1656673216775
+    },
+    {
+        "stepId": "STEP52",
+        "stepName": "Custom Request: 设备维修查询",
+        "infFile": "t55.inf",
+        "time": 1656673216869
+    },
+    {
+        "stepId": "STEP53",
+        "stepName": "Custom Request: 设备维修完成检修",
+        "infFile": "t56.inf",
+        "time": 1656673216960
+    },
+    {
+        "stepId": "STEP54",
+        "stepName": "Custom Request: 设备维修删除",
+        "infFile": "t57.inf",
+        "time": 1656673217058
+    },
+    {
+        "stepId": "STEP55",
+        "stepName": "Custom Request: 登录",
+        "infFile": "t59.inf",
+        "time": 1656673217180
+    },
+    {
+        "stepId": "STEP56",
+        "stepName": "Url: 添加采购项页面",
+        "infFile": "t60.inf",
+        "time": 1656673217309
+    },
+    {
+        "stepId": "STEP57",
+        "stepName": "Custom Request: 添加采购项",
+        "infFile": "t61.inf",
+        "time": 1656673217420
+    },
+    {
+        "stepId": "STEP58",
+        "stepName": "Custom Request: 采购审核通过操作",
+        "infFile": "t62.inf",
+        "time": 1656673217532
+    },
+    {
+        "stepId": "STEP59",
+        "stepName": "Custom Request: 采购反馈提交操作",
+        "infFile": "t63.inf",
+        "time": 1656673217643
+    },
+    {
+        "stepId": "STEP60",
+        "stepName": "Url: 泵站信息页面",
+        "infFile": "t64.inf",
+        "time": 1656673217770
+    },
+    {
+        "stepId": "STEP61",
+        "stepName": "Custom Request: 添加站点数据",
+        "infFile": "t65.inf",
+        "time": 1656673217879
+    },
+    {
+        "stepId": "STEP62",
+        "stepName": "Custom Request: 修改站点数据",
+        "infFile": "t66.inf",
+        "time": 1656673217989
+    },
+    {
+        "stepId": "STEP63",
+        "stepName": "Custom Request: 泵站数据信息查询",
+        "infFile": "t67.inf",
+        "time": 1656673218101
+    }
+]

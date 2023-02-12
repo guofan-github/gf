@@ -1,0 +1,13 @@
+[t5]
+SnapshotXmlFile=snapshot_4.xml
+ContentType=application/json
+StepName=Custom Request: 基础设施修改
+Total=1
+FileName1=t5.json
+RequestHeaderFile=t5_RequestHeader.txt
+ResponseHeaderFile=t5_ResponseHeader.txt
+RawStepEndTime=1656673211795
+RawStepName=基础设施修改
+RequestBodyFile=t5_RequestBody.txt
+RawStepStartTime=1656673211788
+URL1=file:

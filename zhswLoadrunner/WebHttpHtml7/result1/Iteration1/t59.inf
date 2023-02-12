@@ -1,0 +1,13 @@
+[t59]
+SnapshotXmlFile=snapshot_55.xml
+ContentType=application/json
+StepName=Custom Request: 登录
+Total=1
+FileName1=t59.json
+RequestHeaderFile=t59_RequestHeader.txt
+ResponseHeaderFile=t59_ResponseHeader.txt
+RawStepEndTime=1656673217178
+RawStepName=登录
+RequestBodyFile=t59_RequestBody.txt
+RawStepStartTime=1656673217172
+URL1=file:

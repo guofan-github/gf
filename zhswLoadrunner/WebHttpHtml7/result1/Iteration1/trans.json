@@ -1,0 +1,107 @@
+[
+    {
+        "transactionName": "登录事务",
+        "rawStartTime": 1656673211345,
+        "rawEndTime": 1656673211518
+    },
+    {
+        "transactionName": "基础设施事务",
+        "rawStartTime": 1656673211533,
+        "rawEndTime": 1656673212009
+    },
+    {
+        "transactionName": "设备列表事务",
+        "rawStartTime": 1656673212041,
+        "rawEndTime": 1656673212690
+    },
+    {
+        "transactionName": "设备属性事务",
+        "rawStartTime": 1656673212723,
+        "rawEndTime": 1656673212892
+    },
+    {
+        "transactionName": "爆管监控事务",
+        "rawStartTime": 1656673212926,
+        "rawEndTime": 1656673213002
+    },
+    {
+        "transactionName": "登录事务",
+        "rawStartTime": 1656673213067,
+        "rawEndTime": 1656673213176
+    },
+    {
+        "transactionName": "巡检地点-修改",
+        "rawStartTime": 1656673213193,
+        "rawEndTime": 1656673213286
+    },
+    {
+        "transactionName": "巡检计划-添加",
+        "rawStartTime": 1656673213318,
+        "rawEndTime": 1656673213412
+    },
+    {
+        "transactionName": "巡检计划-查看",
+        "rawStartTime": 1656673213445,
+        "rawEndTime": 1656673213538
+    },
+    {
+        "transactionName": "巡检计划-查看-添加计划",
+        "rawStartTime": 1656673213570,
+        "rawEndTime": 1656673213665
+    },
+    {
+        "transactionName": "巡检计划-修改",
+        "rawStartTime": 1656673213697,
+        "rawEndTime": 1656673213790
+    },
+    {
+        "transactionName": "巡检计划-修改-查看",
+        "rawStartTime": 1656673213822,
+        "rawEndTime": 1656673213916
+    },
+    {
+        "transactionName": "巡检审核-查看详情",
+        "rawStartTime": 1656673213946,
+        "rawEndTime": 1656673214041
+    },
+    {
+        "transactionName": "巡检审核-审核",
+        "rawStartTime": 1656673214074,
+        "rawEndTime": 1656673214166
+    },
+    {
+        "transactionName": "系统管理-角色管理",
+        "rawStartTime": 1656673214197,
+        "rawEndTime": 1656673214288
+    },
+    {
+        "transactionName": "角色管理-分配管理",
+        "rawStartTime": 1656673214321,
+        "rawEndTime": 1656673214411
+    },
+    {
+        "transactionName": "系统管理-用户管理",
+        "rawStartTime": 1656673214443,
+        "rawEndTime": 1656673214538
+    },
+    {
+        "transactionName": "系统管理-用户管理-修改",
+        "rawStartTime": 1656673214571,
+        "rawEndTime": 1656673214666
+    },
+    {
+        "transactionName": "登录事务",
+        "rawStartTime": 1656673217139,
+        "rawEndTime": 1656673217219
+    },
+    {
+        "transactionName": "采购审核事务",
+        "rawStartTime": 1656673217268,
+        "rawEndTime": 1656673217680
+    },
+    {
+        "transactionName": "G-M-S泵站事务",
+        "rawStartTime": 1656673217727,
+        "rawEndTime": 1656673218135
+    }
+]

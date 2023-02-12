@@ -1,0 +1,13 @@
+[t60]
+SnapshotXmlFile=snapshot_56.xml
+ContentType=application/json
+StepName=Url: 添加采购项页面
+Total=1
+FileName1=t60.json
+RequestHeaderFile=t60_RequestHeader.txt
+ResponseHeaderFile=t60_ResponseHeader.txt
+RawStepEndTime=1656673217306
+RawStepName=添加采购项页面
+RequestBodyFile=t60_RequestBody.txt
+RawStepStartTime=1656673217300
+URL1=file:

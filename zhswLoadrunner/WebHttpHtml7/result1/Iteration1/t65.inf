@@ -1,0 +1,13 @@
+[t65]
+SnapshotXmlFile=snapshot_61.xml
+ContentType=application/json
+StepName=Custom Request: 添加站点数据
+Total=1
+FileName1=t65.json
+RequestHeaderFile=t65_RequestHeader.txt
+ResponseHeaderFile=t65_ResponseHeader.txt
+RawStepEndTime=1656673217877
+RawStepName=添加站点数据
+RequestBodyFile=t65_RequestBody.txt
+RawStepStartTime=1656673217869
+URL1=file:

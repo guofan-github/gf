@@ -1,0 +1,13 @@
+[t66]
+SnapshotXmlFile=snapshot_62.xml
+ContentType=application/json
+StepName=Custom Request: 修改站点数据
+Total=1
+FileName1=t66.json
+RequestHeaderFile=t66_RequestHeader.txt
+ResponseHeaderFile=t66_ResponseHeader.txt
+RawStepEndTime=1656673217986
+RawStepName=修改站点数据
+RequestBodyFile=t66_RequestBody.txt
+RawStepStartTime=1656673217978
+URL1=file:

@@ -1,0 +1,13 @@
+[t19]
+SnapshotXmlFile=snapshot_17.xml
+ContentType=application/json
+StepName=Custom Request: 登录
+Total=1
+FileName1=t19.json
+RequestHeaderFile=t19_RequestHeader.txt
+ResponseHeaderFile=t19_ResponseHeader.txt
+RawStepEndTime=1656673213119
+RawStepName=登录
+RequestBodyFile=t19_RequestBody.txt
+RawStepStartTime=1656673213112
+URL1=http://192.168.75.145/water_bg/user/login

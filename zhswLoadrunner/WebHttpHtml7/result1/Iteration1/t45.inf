@@ -1,0 +1,13 @@
+[t45]
+SnapshotXmlFile=snapshot_42.xml
+ContentType=application/json
+StepName=Custom Request: 进入未审核工单
+Total=1
+FileName1=t45.json
+RequestHeaderFile=t45_RequestHeader.txt
+ResponseHeaderFile=t45_ResponseHeader.txt
+RawStepEndTime=1656673215892
+RawStepName=进入未审核工单
+RequestBodyFile=t45_RequestBody.txt
+RawStepStartTime=1656673215885
+URL1=file:

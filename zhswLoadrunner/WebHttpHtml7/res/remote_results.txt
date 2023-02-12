@@ -1,0 +1,2 @@
+[Hosts]
+localhost=E:\git\zhswLoadrunner\WebHttpHtml7\res\localhost_1.eve

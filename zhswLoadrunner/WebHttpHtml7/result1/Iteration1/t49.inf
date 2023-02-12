@@ -1,0 +1,13 @@
+[t49]
+SnapshotXmlFile=snapshot_46.xml
+ContentType=application/json
+StepName=Custom Request: 未审核工单删除
+Total=1
+FileName1=t49.json
+RequestHeaderFile=t49_RequestHeader.txt
+ResponseHeaderFile=t49_ResponseHeader.txt
+RawStepEndTime=1656673216285
+RawStepName=未审核工单删除
+RequestBodyFile=t49_RequestBody.txt
+RawStepStartTime=1656673216278
+URL1=file:

@@ -1,0 +1,13 @@
+[t57]
+SnapshotXmlFile=snapshot_54.xml
+ContentType=application/json
+StepName=Custom Request: 设备维修删除
+Total=1
+FileName1=t57.json
+RequestHeaderFile=t57_RequestHeader.txt
+ResponseHeaderFile=t57_ResponseHeader.txt
+RawStepEndTime=1656673217054
+RawStepName=设备维修删除
+RequestBodyFile=t57_RequestBody.txt
+RawStepStartTime=1656673217047
+URL1=file:
