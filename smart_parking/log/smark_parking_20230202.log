@@ -1,0 +1,2761 @@
+[2023-02-02 00:11:14] INFO test_login.py(29): 访问首页测试成功
+[2023-02-02 00:18:25] INFO test_login.py(29): 访问首页测试成功
+[2023-02-02 00:25:38] INFO test_login.py(29): 访问首页测试成功
+[2023-02-02 00:26:22] INFO test_login.py(31): 访问首页测试成功
+[2023-02-02 20:33:09] INFO test_login.py(29): 访问首页测试成功
+[2023-02-02 20:33:10] INFO process_login.py(18): 请输入用户名：admin
+[2023-02-02 20:33:10] INFO process_login.py(23): 请输入密码：vvv333
+[2023-02-02 20:33:10] INFO test_login.py(83): 发生意外错误，错误原因：object of type 'NoneType' has no len()
+[2023-02-02 20:33:21] INFO test_rightsmanagement.py(42): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 20:51:43] INFO test_login.py(29): 访问首页测试成功
+[2023-02-02 20:51:43] INFO process_login.py(18): 请输入用户名：admin
+[2023-02-02 20:51:44] INFO process_login.py(23): 请输入密码：vvv333
+[2023-02-02 20:51:44] INFO test_login.py(83): 发生意外错误，错误原因：object of type 'NoneType' has no len()
+[2023-02-02 20:51:55] INFO test_rightsmanagement.py(42): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 20:52:09] INFO test_login.py(29): 访问首页测试成功
+[2023-02-02 20:52:09] INFO process_login.py(18): 请输入用户名：admin
+[2023-02-02 20:52:09] INFO process_login.py(23): 请输入密码：vvv333
+[2023-02-02 20:52:09] INFO test_login.py(83): 发生意外错误，错误原因：object of type 'NoneType' has no len()
+[2023-02-02 20:52:20] INFO test_rightsmanagement.py(42): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 20:54:46] INFO test_login.py(29): 访问首页测试成功
+[2023-02-02 20:54:46] INFO process_login.py(18): 请输入用户名：admin
+[2023-02-02 20:54:46] INFO process_login.py(23): 请输入密码：vvv333
+[2023-02-02 20:54:47] INFO test_login.py(87): 发生意外错误，错误原因：object of type 'NoneType' has no len()
+[2023-02-02 20:54:57] INFO test_rightsmanagement.py(42): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 20:59:06] INFO test_login.py(29): 访问首页测试成功
+[2023-02-02 20:59:06] INFO process_login.py(18): 请输入用户名：admin
+[2023-02-02 20:59:06] INFO process_login.py(23): 请输入密码：vvv333
+[2023-02-02 20:59:07] INFO test_login.py(87): 发生意外错误，错误原因：object of type 'NoneType' has no len()
+[2023-02-02 20:59:17] INFO test_rightsmanagement.py(42): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 21:02:11] INFO test_login.py(29): 访问首页测试成功
+[2023-02-02 21:03:18] INFO test_login.py(29): 访问首页测试成功
+[2023-02-02 21:03:39] INFO test_login.py(29): 访问首页测试成功
+[2023-02-02 21:03:40] INFO process_login.py(18): 请输入用户名：admin
+[2023-02-02 21:03:40] INFO process_login.py(23): 请输入密码：vvv333
+[2023-02-02 21:03:40] INFO process_login.py(28): 请输入验证码：    
+[2023-02-02 21:03:40] INFO process_login.py(33): 点击登录按钮
+[2023-02-02 21:03:51] INFO test_login.py(83): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 21:05:37] INFO test_login.py(29): 访问首页测试成功
+[2023-02-02 21:05:37] INFO process_login.py(18): 请输入用户名：admin
+[2023-02-02 21:05:37] INFO process_login.py(23): 请输入密码：vvv333
+[2023-02-02 21:05:37] INFO process_login.py(28): 请输入验证码：    
+[2023-02-02 21:05:37] INFO process_login.py(33): 点击登录按钮
+[2023-02-02 21:05:48] INFO test_login.py(84): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 21:58:38] INFO test_login.py(30): 访问首页测试成功
+[2023-02-02 21:59:05] INFO test_login.py(30): 访问首页测试成功
+[2023-02-02 21:59:05] INFO process_login.py(18): 请输入用户名：admin
+[2023-02-02 21:59:05] INFO process_login.py(23): 请输入密码：vvv333
+[2023-02-02 21:59:06] INFO process_login.py(28): 请输入验证码：    
+[2023-02-02 21:59:06] INFO process_login.py(33): 点击登录按钮
+[2023-02-02 21:59:17] INFO test_login.py(86): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 22:00:15] INFO test_login.py(30): 访问首页测试成功
+[2023-02-02 22:00:15] INFO process_login.py(18): 请输入用户名：admin
+[2023-02-02 22:00:15] INFO process_login.py(23): 请输入密码：vvv333
+[2023-02-02 22:00:15] INFO process_login.py(28): 请输入验证码：    
+[2023-02-02 22:00:15] INFO process_login.py(33): 点击登录按钮
+[2023-02-02 22:08:02] INFO test_login.py(31): 访问首页测试成功
+[2023-02-02 22:50:27] INFO test_login.py(28): 访问首页测试成功
+[2023-02-02 22:51:10] INFO test_login.py(28): 访问首页测试成功
+[2023-02-02 22:51:10] INFO process_login.py(18): 请输入用户名：admin
+[2023-02-02 22:51:11] INFO process_login.py(23): 请输入密码：vvv333
+[2023-02-02 22:51:11] INFO process_login.py(28): 请输入验证码：0000
+[2023-02-02 22:51:11] INFO process_login.py(33): 点击登录按钮
+[2023-02-02 22:51:11] INFO test_login.py(54): 登录测试成功
+[2023-02-02 22:51:22] INFO test_login.py(79): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 22:51:33] INFO test_login.py(79): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 22:51:43] INFO test_login.py(79): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 22:59:28] INFO test_login.py(28): 访问首页测试成功
+[2023-02-02 22:59:28] INFO process_login.py(18): 请输入用户名：admin
+[2023-02-02 22:59:28] INFO process_login.py(23): 请输入密码：vvv333
+[2023-02-02 22:59:28] INFO process_login.py(28): 请输入验证码：0000
+[2023-02-02 22:59:28] INFO process_login.py(33): 点击登录按钮
+[2023-02-02 22:59:28] INFO test_login.py(54): 登录测试成功
+[2023-02-02 22:59:39] INFO test_login.py(80): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 22:59:50] INFO test_login.py(80): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:02:14] INFO test_login.py(28): 访问首页测试成功
+[2023-02-02 23:02:14] INFO process_login.py(18): 请输入用户名：admin
+[2023-02-02 23:02:14] INFO process_login.py(23): 请输入密码：vvv333
+[2023-02-02 23:02:14] INFO process_login.py(28): 请输入验证码：0000
+[2023-02-02 23:02:14] INFO process_login.py(33): 点击登录按钮
+[2023-02-02 23:02:15] INFO test_login.py(54): 登录测试成功
+[2023-02-02 23:02:26] INFO test_login.py(80): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:02:36] INFO test_login.py(80): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:06:39] INFO test_login.py(28): 访问首页测试成功
+[2023-02-02 23:06:39] INFO process_login.py(18): 请输入用户名：admin
+[2023-02-02 23:06:39] INFO process_login.py(23): 请输入密码：vvv333
+[2023-02-02 23:06:39] INFO process_login.py(28): 请输入验证码：0000
+[2023-02-02 23:06:39] INFO process_login.py(33): 点击登录按钮
+[2023-02-02 23:06:40] INFO test_login.py(54): 登录测试成功
+[2023-02-02 23:06:40] INFO process_login.py(18): 请输入用户名：admin
+[2023-02-02 23:06:40] INFO process_login.py(23): 请输入密码：22214
+[2023-02-02 23:06:40] INFO process_login.py(28): 请输入验证码：0000
+[2023-02-02 23:06:40] INFO process_login.py(33): 点击登录按钮
+[2023-02-02 23:06:52] INFO test_login.py(80): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:06:52] INFO process_login.py(18): 请输入用户名：lol
+[2023-02-02 23:06:52] INFO process_login.py(23): 请输入密码：vvv333
+[2023-02-02 23:06:52] INFO process_login.py(28): 请输入验证码：0000
+[2023-02-02 23:06:54] INFO test_login.py(80): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:06:54] INFO process_login.py(18): 请输入用户名：admin
+[2023-02-02 23:06:54] INFO process_login.py(23): 请输入密码：vvv333
+[2023-02-02 23:06:54] INFO process_login.py(28): 请输入验证码：0000
+[2023-02-02 23:10:01] INFO test_login.py(28): 访问首页测试成功
+[2023-02-02 23:10:01] INFO process_login.py(18): 请输入用户名：admin
+[2023-02-02 23:10:01] INFO process_login.py(23): 请输入密码：vvv333
+[2023-02-02 23:10:01] INFO process_login.py(28): 请输入验证码：0000
+[2023-02-02 23:10:01] INFO process_login.py(33): 点击登录按钮
+[2023-02-02 23:10:01] INFO test_login.py(54): 登录测试成功
+[2023-02-02 23:10:02] INFO process_login.py(18): 请输入用户名：admin
+[2023-02-02 23:10:02] INFO process_login.py(23): 请输入密码：22214
+[2023-02-02 23:10:02] INFO process_login.py(28): 请输入验证码：0000
+[2023-02-02 23:10:02] INFO process_login.py(33): 点击登录按钮
+[2023-02-02 23:10:14] INFO test_login.py(81): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:10:14] INFO process_login.py(18): 请输入用户名：lol
+[2023-02-02 23:10:14] INFO process_login.py(23): 请输入密码：vvv333
+[2023-02-02 23:10:14] INFO process_login.py(28): 请输入验证码：0000
+[2023-02-02 23:10:14] INFO process_login.py(33): 点击登录按钮
+[2023-02-02 23:10:25] INFO test_login.py(81): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:10:26] INFO process_login.py(18): 请输入用户名：admin
+[2023-02-02 23:10:26] INFO process_login.py(23): 请输入密码：vvv333
+[2023-02-02 23:10:26] INFO process_login.py(28): 请输入验证码：0000
+[2023-02-02 23:10:27] INFO test_login.py(81): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2005;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:10:27] INFO process_login.py(18): 请输入用户名：admin
+[2023-02-02 23:10:27] INFO process_login.py(23): 请输入密码：vvv333
+[2023-02-02 23:10:27] INFO process_login.py(28): 请输入验证码：    
+[2023-02-02 23:10:28] INFO test_login.py(81): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2005;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:11:10] INFO test_login.py(28): 访问首页测试成功
+[2023-02-02 23:11:10] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:11:10] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:11:11] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:11:11] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:11:11] INFO test_login.py(54): 登录测试成功
+[2023-02-02 23:11:11] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:11:11] INFO process_login.py(24): 请输入密码：22214
+[2023-02-02 23:11:11] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:11:12] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:11:23] INFO test_login.py(82): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:11:23] INFO process_login.py(19): 请输入用户名：lol
+[2023-02-02 23:11:23] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:11:24] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:11:25] INFO test_login.py(82): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:11:25] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:11:25] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:11:25] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:11:26] INFO test_login.py(82): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:11:26] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:11:26] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:11:26] INFO process_login.py(29): 请输入验证码：    
+[2023-02-02 23:11:28] INFO test_login.py(82): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:14:45] INFO test_login.py(28): 访问首页测试成功
+[2023-02-02 23:14:45] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:14:46] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:14:46] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:14:46] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:14:46] INFO test_login.py(54): 登录测试成功
+[2023-02-02 23:14:46] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:14:46] INFO process_login.py(24): 请输入密码：22214
+[2023-02-02 23:14:46] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:14:46] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:14:57] INFO test_login.py(82): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:14:57] INFO process_login.py(19): 请输入用户名：lol
+[2023-02-02 23:14:57] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:14:57] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:14:59] INFO test_login.py(82): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:14:59] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:14:59] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:14:59] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:15:00] INFO test_login.py(82): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:15:00] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:15:00] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:15:00] INFO process_login.py(29): 请输入验证码：    
+[2023-02-02 23:15:02] INFO test_login.py(82): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:15:49] INFO test_login.py(28): 访问首页测试成功
+[2023-02-02 23:15:49] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:15:49] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:15:49] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:15:49] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:18:11] INFO test_login.py(28): 访问首页测试成功
+[2023-02-02 23:18:11] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:18:11] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:18:11] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:18:11] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:18:11] INFO test_login.py(54): 登录测试成功
+[2023-02-02 23:18:12] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:18:12] INFO process_login.py(24): 请输入密码：22214
+[2023-02-02 23:18:12] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:18:12] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:19:15] INFO test_login.py(28): 访问首页测试成功
+[2023-02-02 23:19:15] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:19:15] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:19:15] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:19:15] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:19:15] INFO test_login.py(54): 登录测试成功
+[2023-02-02 23:19:16] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:19:16] INFO process_login.py(24): 请输入密码：22214
+[2023-02-02 23:19:16] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:19:16] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:19:27] INFO test_login.py(82): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:19:27] INFO process_login.py(19): 请输入用户名：lol
+[2023-02-02 23:19:27] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:19:27] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:19:28] INFO test_login.py(82): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:19:28] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:19:28] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:19:28] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:19:30] INFO test_login.py(82): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:19:30] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:19:30] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:19:30] INFO process_login.py(29): 请输入验证码：    
+[2023-02-02 23:19:31] INFO test_login.py(82): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:25:53] INFO test_login.py(28): 访问首页测试成功
+[2023-02-02 23:25:53] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:25:53] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:25:53] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:25:53] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:25:53] INFO test_login.py(54): 登录测试成功
+[2023-02-02 23:25:54] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:25:54] INFO process_login.py(24): 请输入密码：22214
+[2023-02-02 23:25:54] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:25:54] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:26:05] INFO test_login.py(82): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:26:05] INFO process_login.py(19): 请输入用户名：lol
+[2023-02-02 23:26:05] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:26:05] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:26:06] INFO test_login.py(82): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:26:06] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:26:06] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:26:06] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:26:08] INFO test_login.py(82): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:26:08] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:26:08] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:26:08] INFO process_login.py(29): 请输入验证码：    
+[2023-02-02 23:26:14] WARNING connectionpool.py(811): Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001772F0B6D08>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/b7cca8ce19d21eaea492c42feb4cff7e/window/maximize
+[2023-02-02 23:26:18] WARNING connectionpool.py(811): Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001772F09DB88>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/b7cca8ce19d21eaea492c42feb4cff7e/window/maximize
+[2023-02-02 23:26:22] WARNING connectionpool.py(811): Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001772F085188>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/b7cca8ce19d21eaea492c42feb4cff7e/window/maximize
+[2023-02-02 23:27:02] INFO test_login.py(28): 访问首页测试成功
+[2023-02-02 23:27:02] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:27:02] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:27:02] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:27:02] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:27:02] INFO test_login.py(54): 登录测试成功
+[2023-02-02 23:27:03] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:27:03] INFO process_login.py(24): 请输入密码：22214
+[2023-02-02 23:27:03] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:27:03] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:27:14] INFO test_login.py(82): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:27:14] INFO process_login.py(19): 请输入用户名：lol
+[2023-02-02 23:27:14] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:27:14] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:27:15] INFO test_login.py(82): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:27:15] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:27:15] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:27:15] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:27:17] INFO test_login.py(82): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:27:17] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:27:17] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:27:17] INFO process_login.py(29): 请输入验证码：    
+[2023-02-02 23:27:18] INFO test_login.py(82): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:32:25] INFO test_login.py(28): 访问首页测试成功
+[2023-02-02 23:32:25] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:32:25] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:32:25] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:32:25] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:32:26] INFO test_login.py(54): 登录测试成功
+[2023-02-02 23:32:26] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:32:26] INFO process_login.py(24): 请输入密码：22214
+[2023-02-02 23:32:26] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:32:26] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:32:26] INFO test_login.py(67): 密码错误登录测试成功
+[2023-02-02 23:32:42] INFO test_login.py(82): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:32:42] INFO process_login.py(19): 请输入用户名：lol
+[2023-02-02 23:32:42] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:32:42] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:33:28] INFO test_login.py(28): 访问首页测试成功
+[2023-02-02 23:33:28] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:33:28] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:33:28] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:33:29] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:33:29] INFO test_login.py(54): 登录测试成功
+[2023-02-02 23:33:29] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:33:29] INFO process_login.py(24): 请输入密码：22214
+[2023-02-02 23:33:29] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:33:29] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:33:41] INFO test_login.py(82): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:33:41] INFO process_login.py(19): 请输入用户名：lol
+[2023-02-02 23:33:41] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:33:41] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:33:42] INFO test_login.py(82): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:33:42] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:33:42] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:33:42] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:33:43] INFO test_login.py(82): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:33:43] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:33:44] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:33:44] INFO process_login.py(29): 请输入验证码：    
+[2023-02-02 23:33:45] INFO test_login.py(82): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:34:56] INFO test_login.py(28): 访问首页测试成功
+[2023-02-02 23:34:56] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:34:57] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:34:57] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:34:57] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:34:57] INFO test_login.py(54): 登录测试成功
+[2023-02-02 23:34:57] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:34:57] INFO process_login.py(24): 请输入密码：22214
+[2023-02-02 23:34:58] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:34:58] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:34:58] INFO test_login.py(67): 密码错误登录测试成功
+[2023-02-02 23:35:11] INFO test_login.py(82): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:35:12] INFO process_login.py(19): 请输入用户名：lol
+[2023-02-02 23:35:12] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:35:12] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:35:13] INFO test_login.py(82): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:35:13] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:35:13] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:35:13] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:35:14] INFO test_login.py(82): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:35:14] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:35:15] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:35:15] INFO process_login.py(29): 请输入验证码：    
+[2023-02-02 23:35:16] INFO test_login.py(82): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:35:58] INFO test_login.py(28): 访问首页测试成功
+[2023-02-02 23:35:58] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:35:58] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:35:58] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:35:58] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:35:59] INFO test_login.py(54): 登录测试成功
+[2023-02-02 23:35:59] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:35:59] INFO process_login.py(24): 请输入密码：22214
+[2023-02-02 23:35:59] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:35:59] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:35:59] INFO test_login.py(67): 密码错误登录测试成功
+[2023-02-02 23:36:03] INFO test_login.py(82): 发生意外错误，错误原因：Message: invalid selector: Unable to locate an element with the xpath expression body > div.el-overlay.is-message-box > div > div.el-message-box__btns > button because of the following error:
+TypeError: Failed to execute 'evaluate' on 'Document': The result is not a node set, and therefore cannot be converted to the desired type.
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026A2D9A]
+	(No symbol) [0x00007FF7026A2AC9]
+	(No symbol) [0x00007FF7026A2F00]
+	(No symbol) [0x00007FF7026E1DBB]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:36:03] INFO process_login.py(19): 请输入用户名：lol
+[2023-02-02 23:36:03] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:36:03] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:36:04] INFO test_login.py(82): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:36:04] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:36:04] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:36:04] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:36:05] INFO test_login.py(82): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:36:06] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:36:06] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:36:06] INFO process_login.py(29): 请输入验证码：    
+[2023-02-02 23:36:07] INFO test_login.py(82): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:37:36] INFO test_login.py(28): 访问首页测试成功
+[2023-02-02 23:37:36] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:37:36] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:37:37] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:37:37] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:37:37] INFO test_login.py(54): 登录测试成功
+[2023-02-02 23:37:37] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:37:37] INFO process_login.py(24): 请输入密码：22214
+[2023-02-02 23:37:37] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:37:37] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:37:38] INFO test_login.py(67): 密码错误登录测试成功
+[2023-02-02 23:37:41] INFO process_login.py(19): 请输入用户名：lol
+[2023-02-02 23:37:41] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:37:41] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:37:41] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:37:41] INFO test_login.py(67): 用户名不存在登录测试成功
+[2023-02-02 23:37:44] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:37:44] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:37:44] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:37:44] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:39:53] INFO test_login.py(28): 访问首页测试成功
+[2023-02-02 23:39:53] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:39:53] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:39:53] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:39:53] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:39:54] INFO test_login.py(54): 登录测试成功
+[2023-02-02 23:39:54] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:39:54] INFO process_login.py(24): 请输入密码：22214
+[2023-02-02 23:39:54] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:39:54] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:39:55] INFO test_login.py(66): 密码错误登录测试成功
+[2023-02-02 23:39:58] INFO process_login.py(19): 请输入用户名：lol
+[2023-02-02 23:39:58] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:39:58] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:39:58] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:40:09] INFO test_login.py(81): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:40:09] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:40:09] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:40:09] INFO process_login.py(29): 请输入验证码：0044
+[2023-02-02 23:40:10] INFO test_login.py(81): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2005;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:40:11] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:40:11] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:40:11] INFO process_login.py(29): 请输入验证码：    
+[2023-02-02 23:40:12] INFO test_login.py(81): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2005;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:41:11] INFO test_login.py(28): 访问首页测试成功
+[2023-02-02 23:41:11] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:41:11] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:41:11] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:41:11] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:41:12] INFO test_login.py(54): 登录测试成功
+[2023-02-02 23:41:12] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:41:12] INFO process_login.py(24): 请输入密码：22214
+[2023-02-02 23:41:12] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:41:12] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:41:23] INFO test_login.py(81): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:41:23] INFO process_login.py(19): 请输入用户名：lol
+[2023-02-02 23:41:24] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:41:24] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:41:25] INFO test_login.py(81): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:41:25] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:41:25] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:41:25] INFO process_login.py(29): 请输入验证码：0044
+[2023-02-02 23:41:26] INFO test_login.py(81): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:41:26] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:41:27] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:41:27] INFO process_login.py(29): 请输入验证码：    
+[2023-02-02 23:41:28] INFO test_login.py(81): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:43:35] INFO test_login.py(28): 访问首页测试成功
+[2023-02-02 23:43:35] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:43:36] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:43:36] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:43:36] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:43:36] INFO test_login.py(54): 登录测试成功
+[2023-02-02 23:43:36] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:43:36] INFO process_login.py(24): 请输入密码：22214
+[2023-02-02 23:43:36] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:43:36] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:43:37] INFO test_login.py(66): 密码错误登录测试成功
+[2023-02-02 23:43:37] INFO test_login.py(81): 发生意外错误，错误原因：'PageLogin' object has no attribute 'execute_script'
+[2023-02-02 23:43:37] INFO process_login.py(19): 请输入用户名：lol
+[2023-02-02 23:43:37] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:43:37] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:43:38] INFO test_login.py(81): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:43:38] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:43:38] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:43:39] INFO process_login.py(29): 请输入验证码：0044
+[2023-02-02 23:43:40] INFO test_login.py(81): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:43:40] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:43:40] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:43:40] INFO process_login.py(29): 请输入验证码：    
+[2023-02-02 23:43:41] INFO test_login.py(81): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:53:28] INFO test_login.py(28): 访问首页测试成功
+[2023-02-02 23:53:28] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:53:28] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:53:28] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:53:28] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:53:28] INFO test_login.py(54): 登录测试成功
+[2023-02-02 23:53:29] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:53:29] INFO process_login.py(24): 请输入密码：22214
+[2023-02-02 23:53:29] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:53:29] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:53:40] INFO test_login.py(81): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:53:40] INFO process_login.py(19): 请输入用户名：lol
+[2023-02-02 23:53:40] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:53:40] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:53:42] INFO test_login.py(81): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:53:42] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:53:42] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:53:42] INFO process_login.py(29): 请输入验证码：0044
+[2023-02-02 23:53:43] INFO test_login.py(81): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:53:43] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:53:43] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:53:43] INFO process_login.py(29): 请输入验证码：    
+[2023-02-02 23:53:44] INFO test_login.py(81): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:54:30] INFO test_login.py(28): 访问首页测试成功
+[2023-02-02 23:54:30] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:54:30] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:54:30] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:54:31] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:54:31] INFO test_login.py(54): 登录测试成功
+[2023-02-02 23:54:31] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:54:31] INFO process_login.py(24): 请输入密码：22214
+[2023-02-02 23:54:31] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:54:31] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:54:32] INFO test_login.py(66): 密码错误登录测试成功
+[2023-02-02 23:54:38] INFO process_login.py(19): 请输入用户名：lol
+[2023-02-02 23:54:38] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:54:38] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:54:38] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:54:49] INFO test_login.py(81): 发生意外错误，错误原因：Message: 
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026E2225]
+	(No symbol) [0x00007FF7026E23AC]
+	(No symbol) [0x00007FF70271E087]
+	(No symbol) [0x00007FF702701F8F]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:54:49] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:54:49] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:54:49] INFO process_login.py(29): 请输入验证码：0044
+[2023-02-02 23:54:50] INFO test_login.py(81): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2005;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:54:50] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:54:50] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:54:51] INFO process_login.py(29): 请输入验证码：    
+[2023-02-02 23:54:52] INFO test_login.py(81): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2005;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:58:52] INFO test_login.py(28): 访问首页测试成功
+[2023-02-02 23:58:52] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:58:52] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:58:52] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:58:52] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:58:53] INFO test_login.py(54): 登录测试成功
+[2023-02-02 23:58:53] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:58:53] INFO process_login.py(24): 请输入密码：22214
+[2023-02-02 23:58:53] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:58:53] INFO process_login.py(34): 点击登录按钮
+[2023-02-02 23:58:53] INFO test_login.py(66): 密码错误登录测试成功
+[2023-02-02 23:58:54] INFO test_login.py(81): 发生意外错误，错误原因：Message: javascript error: $ is not defined
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026A2D9A]
+	(No symbol) [0x00007FF7026A2AC9]
+	(No symbol) [0x00007FF7026A3B10]
+	(No symbol) [0x00007FF70271C4E2]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:58:54] INFO process_login.py(19): 请输入用户名：lol
+[2023-02-02 23:58:54] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:58:54] INFO process_login.py(29): 请输入验证码：0000
+[2023-02-02 23:58:55] INFO test_login.py(81): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:58:55] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:58:55] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:58:55] INFO process_login.py(29): 请输入验证码：0044
+[2023-02-02 23:58:57] INFO test_login.py(81): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+
+[2023-02-02 23:58:57] INFO process_login.py(19): 请输入用户名：admin
+[2023-02-02 23:58:57] INFO process_login.py(24): 请输入密码：vvv333
+[2023-02-02 23:58:57] INFO process_login.py(29): 请输入验证码：    
+[2023-02-02 23:58:58] INFO test_login.py(81): 发生意外错误，错误原因：Message: element click intercepted: Element <button class="el-button el-button--success el-button--default" type="button" style="--el-button-bg-color:#67c23a; --el-button-border-color:#67c23a; --el-button-hover-bg-color:rgb(133, 206, 97); --el-button-hover-border-color:rgb(133, 206, 97); --el-button-active-bg-color:rgb(93, 175, 52); --el-button-active-border-color:rgb(93, 175, 52);">...</button> is not clickable at point (697, 494). Other element would receive the click: <div class="el-overlay is-message-box" style="z-index: 2003;">...</div>
+  (Session info: MicrosoftEdge=109.0.1518.61)
+Stacktrace:
+Backtrace:
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF702A409D2+15186]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029D9522+828882]
+	(No symbol) [0x00007FF70269ED90]
+	(No symbol) [0x00007FF7026EAD69]
+	(No symbol) [0x00007FF7026E818C]
+	(No symbol) [0x00007FF7026E53E6]
+	(No symbol) [0x00007FF7026E3A67]
+	(No symbol) [0x00007FF7026D547A]
+	(No symbol) [0x00007FF702701F4A]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF7026D4B11]
+	(No symbol) [0x00007FF702702280]
+	(No symbol) [0x00007FF7026D4C3E]
+	(No symbol) [0x00007FF70271B513]
+	(No symbol) [0x00007FF702701D23]
+	(No symbol) [0x00007FF7026D3B80]
+	(No symbol) [0x00007FF7026D2B0E]
+	(No symbol) [0x00007FF7026D4344]
+	Microsoft::Applications::Events::EventProperties::SetProperty [0x00007FF7028BB190+182768]
+	(No symbol) [0x00007FF70278EF45]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029194CA+42362]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF70291C205+53941]
+	Microsoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF702C37DC3+1456595]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E1A7A+863018]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6B64+883732]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029E6CBC+884076]
+	Microsoft::Applications::Events::EventProperty::EventProperty [0x00007FF7029EFC8E+920894]
+	BaseThreadInitThunk [0x00007FFA8B977614+20]
+	RtlUserThreadStart [0x00007FFA8C8026A1+33]
+

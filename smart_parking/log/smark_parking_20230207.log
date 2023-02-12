@@ -1,0 +1,144 @@
+[2023-02-07 23:49:50] INFO report.py(36): sql语句：insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s,%s, %s,%s, %s,%s, %s)
+[2023-02-07 23:49:50] INFO test_login.py(28): 访问首页测试成功
+[2023-02-07 23:49:51] INFO process_login.py(20): 请输入用户名：admin
+[2023-02-07 23:49:52] INFO process_login.py(26): 请输入密码：22214
+[2023-02-07 23:49:53] INFO process_login.py(32): 请输入验证码：0000
+[2023-02-07 23:49:54] INFO process_login.py(38): 点击登录按钮
+[2023-02-07 23:49:56] INFO report.py(36): sql语句：insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s,%s, %s,%s, %s,%s, %s)
+[2023-02-07 23:49:56] INFO test_login.py(66): 密码错误登录测试成功
+[2023-02-07 23:50:02] INFO process_login.py(20): 请输入用户名：lol
+[2023-02-07 23:50:04] INFO process_login.py(26): 请输入密码：vvv333
+[2023-02-07 23:50:05] INFO process_login.py(32): 请输入验证码：0000
+[2023-02-07 23:50:06] INFO process_login.py(38): 点击登录按钮
+[2023-02-07 23:50:08] INFO report.py(36): sql语句：insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s,%s, %s,%s, %s,%s, %s)
+[2023-02-07 23:50:08] INFO test_login.py(66): 用户名不存在登录测试成功
+[2023-02-07 23:50:14] INFO process_login.py(20): 请输入用户名：admin
+[2023-02-07 23:50:15] INFO process_login.py(26): 请输入密码：vvv333
+[2023-02-07 23:50:16] INFO process_login.py(32): 请输入验证码：0044
+[2023-02-07 23:50:17] INFO process_login.py(38): 点击登录按钮
+[2023-02-07 23:50:19] INFO report.py(36): sql语句：insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s,%s, %s,%s, %s,%s, %s)
+[2023-02-07 23:50:19] INFO test_login.py(66): 验证码错误登录测试成功
+[2023-02-07 23:50:25] INFO process_login.py(20): 请输入用户名：admin
+[2023-02-07 23:50:26] INFO process_login.py(26): 请输入密码：vvv333
+[2023-02-07 23:50:27] INFO process_login.py(32): 请输入验证码：    
+[2023-02-07 23:50:28] INFO process_login.py(38): 点击登录按钮
+[2023-02-07 23:50:31] INFO report.py(36): sql语句：insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s,%s, %s,%s, %s,%s, %s)
+[2023-02-07 23:50:31] INFO test_login.py(66): 验证码不能为空登录测试成功
+[2023-02-07 23:50:37] INFO process_login.py(20): 请输入用户名：admin
+[2023-02-07 23:50:38] INFO process_login.py(26): 请输入密码：vvv333
+[2023-02-07 23:50:39] INFO process_login.py(32): 请输入验证码：0000
+[2023-02-07 23:50:40] INFO process_login.py(38): 点击登录按钮
+[2023-02-07 23:50:40] INFO report.py(36): sql语句：insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s,%s, %s,%s, %s,%s, %s)
+[2023-02-07 23:50:40] INFO test_login.py(54): 登录测试成功
+[2023-02-07 23:50:40] INFO report.py(36): sql语句：insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s,%s, %s,%s, %s,%s, %s)
+[2023-02-07 23:50:40] INFO test_login_api.py(30): 密码错误登录接口测试成功
+[2023-02-07 23:50:40] INFO report.py(36): sql语句：insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s,%s, %s,%s, %s,%s, %s)
+[2023-02-07 23:50:40] INFO test_login_api.py(30): 用户名不存在登录接口测试成功
+[2023-02-07 23:50:40] INFO report.py(36): sql语句：insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s,%s, %s,%s, %s,%s, %s)
+[2023-02-07 23:50:40] INFO test_login_api.py(30): 验证码错误登录接口测试成功
+[2023-02-07 23:50:40] INFO report.py(36): sql语句：insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s,%s, %s,%s, %s,%s, %s)
+[2023-02-07 23:50:40] INFO test_login_api.py(30): 验证码不能为空登录接口测试成功
+[2023-02-07 23:50:41] INFO report.py(36): sql语句：insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s,%s, %s,%s, %s,%s, %s)
+[2023-02-07 23:50:41] INFO test_login_api.py(34): 登录接口测试失败，实际测试结果为{"code":200,"msg":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhY2NvdW50TmFtZSI6ImFkbWluIiwic2FsdCI6Ijg1YTU2NTNlLWMxOTQtNGEzNy04ZGM0LTU0MGNlYjMwMDVlMSJ9.ghSPbYJycSrzRzoqPRd46jha_OKA6kKXsn75DAhbx2Q"}，响应代码为200,请求url为http://192.168.163.131/smart_parking_bg/login,请求头为{'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'application/json, text/plain, */*', 'Connection': 'keep-alive', 'Content-Length': '87', 'Content-Type': 'application/json'},请求体为b'{"accountName": "admin", "password": "vvv333", "captcha": "0000", "captchaKey": "0000"}'。
+[2023-02-07 23:55:05] INFO report.py(36): sql语句：insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s,%s, %s,%s, %s,%s, %s)
+[2023-02-07 23:55:05] INFO test_login.py(28): 访问首页测试成功
+[2023-02-07 23:55:06] INFO process_login.py(20): 请输入用户名：admin
+[2023-02-07 23:55:07] INFO process_login.py(26): 请输入密码：22214
+[2023-02-07 23:55:08] INFO process_login.py(32): 请输入验证码：0000
+[2023-02-07 23:55:10] INFO process_login.py(38): 点击登录按钮
+[2023-02-07 23:55:12] INFO report.py(36): sql语句：insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s,%s, %s,%s, %s,%s, %s)
+[2023-02-07 23:55:12] INFO test_login.py(66): 密码错误登录测试成功
+[2023-02-07 23:55:18] INFO process_login.py(20): 请输入用户名：lol
+[2023-02-07 23:55:19] INFO process_login.py(26): 请输入密码：vvv333
+[2023-02-07 23:55:20] INFO process_login.py(32): 请输入验证码：0000
+[2023-02-07 23:55:21] INFO process_login.py(38): 点击登录按钮
+[2023-02-07 23:55:23] INFO report.py(36): sql语句：insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s,%s, %s,%s, %s,%s, %s)
+[2023-02-07 23:55:23] INFO test_login.py(66): 用户名不存在登录测试成功
+[2023-02-07 23:55:29] INFO process_login.py(20): 请输入用户名：admin
+[2023-02-07 23:55:30] INFO process_login.py(26): 请输入密码：vvv333
+[2023-02-07 23:55:31] INFO process_login.py(32): 请输入验证码：0044
+[2023-02-07 23:55:32] INFO process_login.py(38): 点击登录按钮
+[2023-02-07 23:55:35] INFO report.py(36): sql语句：insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s,%s, %s,%s, %s,%s, %s)
+[2023-02-07 23:55:35] INFO test_login.py(66): 验证码错误登录测试成功
+[2023-02-07 23:55:41] INFO process_login.py(20): 请输入用户名：admin
+[2023-02-07 23:55:42] INFO process_login.py(26): 请输入密码：vvv333
+[2023-02-07 23:55:43] INFO process_login.py(32): 请输入验证码：    
+[2023-02-07 23:55:44] INFO process_login.py(38): 点击登录按钮
+[2023-02-07 23:55:46] INFO report.py(36): sql语句：insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s,%s, %s,%s, %s,%s, %s)
+[2023-02-07 23:55:46] INFO test_login.py(66): 验证码不能为空登录测试成功
+[2023-02-07 23:55:52] INFO process_login.py(20): 请输入用户名：admin
+[2023-02-07 23:55:53] INFO process_login.py(26): 请输入密码：vvv333
+[2023-02-07 23:55:54] INFO process_login.py(32): 请输入验证码：0000
+[2023-02-07 23:55:55] INFO process_login.py(38): 点击登录按钮
+[2023-02-07 23:55:56] INFO report.py(36): sql语句：insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s,%s, %s,%s, %s,%s, %s)
+[2023-02-07 23:55:56] INFO test_login.py(54): 登录测试成功
+[2023-02-07 23:55:56] INFO report.py(36): sql语句：insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s,%s, %s,%s, %s,%s, %s)
+[2023-02-07 23:55:56] INFO test_login_api.py(30): 密码错误登录接口测试成功
+[2023-02-07 23:55:56] INFO report.py(36): sql语句：insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s,%s, %s,%s, %s,%s, %s)
+[2023-02-07 23:55:56] INFO test_login_api.py(30): 用户名不存在登录接口测试成功
+[2023-02-07 23:55:56] INFO report.py(36): sql语句：insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s,%s, %s,%s, %s,%s, %s)
+[2023-02-07 23:55:56] INFO test_login_api.py(30): 验证码错误登录接口测试成功
+[2023-02-07 23:55:56] INFO report.py(36): sql语句：insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s,%s, %s,%s, %s,%s, %s)
+[2023-02-07 23:55:56] INFO test_login_api.py(30): 验证码不能为空登录接口测试成功
+[2023-02-07 23:55:56] INFO report.py(36): sql语句：insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s,%s, %s,%s, %s,%s, %s)
+[2023-02-07 23:55:56] INFO test_login_api.py(26): 正确的登录接口测试成功
+[2023-02-07 23:55:56] INFO process_rights_management.py(16): 点击权限管理
+[2023-02-07 23:55:58] INFO process_rights_management.py(22): 点击账号管理
+[2023-02-07 23:55:58] INFO process_rights_management.py(27): 点击新增按钮
+[2023-02-07 23:55:58] INFO process_rights_management.py(37): 输入账号：cat
+[2023-02-07 23:55:58] INFO process_rights_management.py(42): 输入密码：vvv333
+[2023-02-07 23:55:59] INFO process_rights_management.py(47): 再次输入密码：vvv333
+[2023-02-07 23:55:59] INFO process_rights_management.py(52): 输入电话：13333333333
+[2023-02-07 23:55:59] INFO process_rights_management.py(57): 输入姓名：摆摆
+[2023-02-07 23:56:00] INFO process_rights_management.py(63): 点击选择角色下拉框
+[2023-02-07 23:56:02] INFO process_rights_management.py(69): 点击选择角色
+[2023-02-07 23:56:04] INFO process_rights_management.py(75): 点击账号输入栏，收回选择角色下拉框
+[2023-02-07 23:56:05] INFO process_rights_management.py(81): 点击启用
+[2023-02-07 23:56:07] INFO process_rights_management.py(87): 点击保存
+[2023-02-07 23:56:09] INFO report.py(36): sql语句：insert into report(version, module, type, case_title, result, time, error, screenshot) values(%s, %s,%s, %s,%s, %s,%s, %s)
+[2023-02-07 23:56:09] INFO test_rightsmanagement.py(30): 新增账户测试成功
+[2023-02-07 23:59:34] INFO test_login.py(28): 访问首页测试成功
+[2023-02-07 23:59:36] INFO process_login.py(20): 请输入用户名：admin
+[2023-02-07 23:59:37] INFO process_login.py(26): 请输入密码：22214
+[2023-02-07 23:59:38] INFO process_login.py(32): 请输入验证码：0000
+[2023-02-07 23:59:39] INFO process_login.py(38): 点击登录按钮
+[2023-02-07 23:59:41] INFO test_login.py(66): 密码错误登录测试成功
+[2023-02-07 23:59:47] INFO process_login.py(20): 请输入用户名：lol
+[2023-02-07 23:59:48] INFO process_login.py(26): 请输入密码：vvv333
+[2023-02-07 23:59:49] INFO process_login.py(32): 请输入验证码：0000
+[2023-02-07 23:59:50] INFO process_login.py(38): 点击登录按钮
+[2023-02-07 23:59:52] INFO test_login.py(66): 用户名不存在登录测试成功
+[2023-02-07 23:59:58] INFO process_login.py(20): 请输入用户名：admin
+[2023-02-08 00:00:00] INFO process_login.py(26): 请输入密码：vvv333
+[2023-02-08 00:00:01] INFO process_login.py(32): 请输入验证码：0044
+[2023-02-08 00:00:02] INFO process_login.py(38): 点击登录按钮
+[2023-02-08 00:00:04] INFO test_login.py(66): 验证码错误登录测试成功
+[2023-02-08 00:00:10] INFO process_login.py(20): 请输入用户名：admin
+[2023-02-08 00:00:11] INFO process_login.py(26): 请输入密码：vvv333
+[2023-02-08 00:00:12] INFO process_login.py(32): 请输入验证码：    
+[2023-02-08 00:00:13] INFO process_login.py(38): 点击登录按钮
+[2023-02-08 00:00:15] INFO test_login.py(66): 验证码不能为空登录测试成功
+[2023-02-08 00:00:21] INFO process_login.py(20): 请输入用户名：admin
+[2023-02-08 00:00:22] INFO process_login.py(26): 请输入密码：vvv333
+[2023-02-08 00:00:24] INFO process_login.py(32): 请输入验证码：0000
+[2023-02-08 00:00:25] INFO process_login.py(38): 点击登录按钮
+[2023-02-08 00:00:25] INFO test_login.py(54): 登录测试成功
+[2023-02-08 00:00:25] INFO test_login_api.py(30): 密码错误登录接口测试成功
+[2023-02-08 00:00:25] INFO test_login_api.py(30): 用户名不存在登录接口测试成功
+[2023-02-08 00:00:25] INFO test_login_api.py(30): 验证码错误登录接口测试成功
+[2023-02-08 00:00:25] INFO test_login_api.py(30): 验证码不能为空登录接口测试成功
+[2023-02-08 00:00:25] INFO test_login_api.py(26): 正确的登录接口测试成功
+[2023-02-08 00:00:25] INFO process_rights_management.py(16): 点击权限管理
+[2023-02-08 00:00:27] INFO process_rights_management.py(22): 点击账号管理
+[2023-02-08 00:00:27] INFO process_rights_management.py(27): 点击新增按钮
+[2023-02-08 00:00:28] INFO process_rights_management.py(37): 输入账号：cat1
+[2023-02-08 00:00:28] INFO process_rights_management.py(42): 输入密码：vvv333
+[2023-02-08 00:00:28] INFO process_rights_management.py(47): 再次输入密码：vvv333
+[2023-02-08 00:00:28] INFO process_rights_management.py(52): 输入电话：13333333333
+[2023-02-08 00:00:28] INFO process_rights_management.py(57): 输入姓名：摆摆
+[2023-02-08 00:00:29] INFO process_rights_management.py(63): 点击选择角色下拉框
+[2023-02-08 00:00:31] INFO process_rights_management.py(69): 点击选择角色
+[2023-02-08 00:00:33] INFO process_rights_management.py(75): 点击账号输入栏，收回选择角色下拉框
+[2023-02-08 00:00:34] INFO process_rights_management.py(81): 点击启用
+[2023-02-08 00:00:36] INFO process_rights_management.py(87): 点击保存
+[2023-02-08 00:00:38] INFO test_rightsmanagement.py(30): 新增账户测试成功
