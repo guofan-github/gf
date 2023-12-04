@@ -22,5 +22,5 @@ def one_num(array):
             array.remove(i)
     return array.pop()
 
-print(one_num([2, 2, 44, 44, 55, 55, 99]))
 
+print(one_num([2, 2, 44, 44, 55, 55, 99]))
